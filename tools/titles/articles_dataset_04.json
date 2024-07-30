@@ -1,11 +1,11 @@
 [
-  {
+    {
         "index": 611,
         "post_category": "goLang",
         "filename": "Debugging-Go-Applications-A-Step-By-Step-Guide-for-New-Users.md",
         "post_title": "Debugging Go Applications: A Step-By-Step Guide for New Users",
         "post_file": "source/_posts/Debugging-Go-Applications-A-Step-By-Step-Guide-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 612,
@@ -13,7 +13,7 @@
         "filename": "Building-Real-Time-Applications-with-Go-A-Beginners-Overview.md",
         "post_title": "Building Real-Time Applications with Go: A Beginner's Overview",
         "post_file": "source/_posts/Building-Real-Time-Applications-with-Go-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 613,
@@ -21,7 +21,7 @@
         "filename": "Understanding-Go-Interfaces-A-Beginners-Guide-to-Abstraction.md",
         "post_title": "Understanding Go Interfaces: A Beginner's Guide to Abstraction",
         "post_file": "source/_posts/Understanding-Go-Interfaces-A-Beginners-Guide-to-Abstraction.md",
-        "created": false
+        "created": true
     },
     {
         "index": 614,
@@ -29,7 +29,7 @@
         "filename": "How-to-Publish-Go-Packages-A-Beginners-Guide-for-Developers.md",
         "post_title": "How to Publish Go Packages: A Beginner's Guide for Developers",
         "post_file": "source/_posts/How-to-Publish-Go-Packages-A-Beginners-Guide-for-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 615,
@@ -37,7 +37,7 @@
         "filename": "Exploring-Gos-Reflection-System-A-Newbies-Guide.md",
         "post_title": "Exploring Go's Reflection System: A Newbie's Guide",
         "post_file": "source/_posts/Exploring-Gos-Reflection-System-A-Newbies-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 616,
@@ -45,7 +45,7 @@
         "filename": "Building-a-Simple-Web-Server-with-Go-A-Beginners-Tutorial.md",
         "post_title": "Building a Simple Web Server with Go: A Beginner\u2019s Tutorial",
         "post_file": "source/_posts/Building-a-Simple-Web-Server-with-Go-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 617,
@@ -53,7 +53,7 @@
         "filename": "How-to-Deploy-Go-Applications-in-the-Cloud-A-Beginners-Guide.md",
         "post_title": "How to Deploy Go Applications in the Cloud: A Beginner's Guide",
         "post_file": "source/_posts/How-to-Deploy-Go-Applications-in-the-Cloud-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 618,
@@ -61,7 +61,7 @@
         "filename": "Best-Online-Resources-to-Learn-Go-for-Beginners.md",
         "post_title": "Best Online Resources to Learn Go for Beginners",
         "post_file": "source/_posts/Best-Online-Resources-to-Learn-Go-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 619,
@@ -69,7 +69,7 @@
         "filename": "Building-Your-Portfolio-with-Go-Projects-Ideas-for-New-Developers.md",
         "post_title": "Building Your Portfolio with Go Projects: Ideas for New Developers",
         "post_file": "source/_posts/Building-Your-Portfolio-with-Go-Projects-Ideas-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 620,
@@ -77,7 +77,7 @@
         "filename": "A-Beginners-Journey-into-Go-Programming-Key-Milestones.md",
         "post_title": "A Beginner's Journey into Go Programming: Key Milestones",
         "post_file": "source/_posts/A-Beginners-Journey-into-Go-Programming-Key-Milestones.md",
-        "created": false
+        "created": true
     },
     {
         "index": 621,
@@ -85,7 +85,7 @@
         "filename": "Getting-Started-with-Rust-A-Beginners-Guide-to-System-Programming.md",
         "post_title": "Getting Started with Rust: A Beginner's Guide to System Programming",
         "post_file": "source/_posts/Getting-Started-with-Rust-A-Beginners-Guide-to-System-Programming.md",
-        "created": false
+        "created": true
     },
     {
         "index": 622,
@@ -93,7 +93,7 @@
         "filename": "How-to-Write-Your-First-Rust-Program-Step-by-Step-Instructions.md",
         "post_title": "How to Write Your First Rust Program: Step-by-Step Instructions",
         "post_file": "source/_posts/How-to-Write-Your-First-Rust-Program-Step-by-Step-Instructions.md",
-        "created": false
+        "created": true
     },
     {
         "index": 623,
@@ -101,7 +101,7 @@
         "filename": "Understanding-Rust-Syntax-A-Beginners-Introduction.md",
         "post_title": "Understanding Rust Syntax: A Beginner's Introduction",
         "post_file": "source/_posts/Understanding-Rust-Syntax-A-Beginners-Introduction.md",
-        "created": false
+        "created": true
     },
     {
         "index": 624,
@@ -109,7 +109,7 @@
         "filename": "Building-Safe-and-Fast-Applications-with-Rust-A-Complete-Guide-for-Beginners.md",
         "post_title": "Building Safe and Fast Applications with Rust: A Complete Guide for Beginners",
         "post_file": "source/_posts/Building-Safe-and-Fast-Applications-with-Rust-A-Complete-Guide-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 625,
@@ -117,7 +117,7 @@
         "filename": "Rust-Ownership-and-Borrowing-Key-Concepts-for-New-Developers.md",
         "post_title": "Rust Ownership and Borrowing: Key Concepts for New Developers",
         "post_file": "source/_posts/Rust-Ownership-and-Borrowing-Key-Concepts-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 626,
@@ -125,7 +125,7 @@
         "filename": "From-Zero-to-Rust-Developer-Your-Comprehensive-Learning-Path.md",
         "post_title": "From Zero to Rust Developer: Your Comprehensive Learning Path",
         "post_file": "source/_posts/From-Zero-to-Rust-Developer-Your-Comprehensive-Learning-Path.md",
-        "created": false
+        "created": true
     },
     {
         "index": 627,
@@ -133,7 +133,7 @@
         "filename": "Learning-Rust-Through-Real-World-Examples-A-Beginners-Perspective.md",
         "post_title": "Learning Rust Through Real-World Examples: A Beginner\u2019s Perspective",
         "post_file": "source/_posts/Learning-Rust-Through-Real-World-Examples-A-Beginners-Perspective.md",
-        "created": false
+        "created": true
     },
     {
         "index": 628,
@@ -141,7 +141,7 @@
         "filename": "Rust-Data-Types-Understanding-the-Basics-for-Beginners.md",
         "post_title": "Rust Data Types: Understanding the Basics for Beginners",
         "post_file": "source/_posts/Rust-Data-Types-Understanding-the-Basics-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 629,
@@ -149,7 +149,7 @@
         "filename": "How-to-Handle-Errors-in-Rust-A-Beginners-Guide-to-Result-and-Option.md",
         "post_title": "How to Handle Errors in Rust: A Beginner's Guide to Result and Option",
         "post_file": "source/_posts/How-to-Handle-Errors-in-Rust-A-Beginners-Guide-to-Result-and-Option.md",
-        "created": false
+        "created": true
     },
     {
         "index": 630,
@@ -157,7 +157,7 @@
         "filename": "Creating-Web-Applications-with-Rust-A-Beginners-Tutorial.md",
         "post_title": "Creating Web Applications with Rust: A Beginner's Tutorial",
         "post_file": "source/_posts/Creating-Web-Applications-with-Rust-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 631,
@@ -165,7 +165,7 @@
         "filename": "Using-Cargo-A-Beginners-Guide-to-Rust-Package-Management.md",
         "post_title": "Using Cargo: A Beginner's Guide to Rust Package Management",
         "post_file": "source/_posts/Using-Cargo-A-Beginners-Guide-to-Rust-Package-Management.md",
-        "created": false
+        "created": true
     },
     {
         "index": 632,
@@ -173,7 +173,7 @@
         "filename": "How-to-Use-Traits-in-Rust-A-Comprehensive-Guide-for-Beginners.md",
         "post_title": "How to Use Traits in Rust: A Comprehensive Guide for Beginners",
         "post_file": "source/_posts/How-to-Use-Traits-in-Rust-A-Comprehensive-Guide-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 633,
@@ -181,7 +181,7 @@
         "filename": "Building-Command-Line-Applications-with-Rust-A-Step-by-Step-Guide.md",
         "post_title": "Building Command-Line Applications with Rust: A Step-by-Step Guide",
         "post_file": "source/_posts/Building-Command-Line-Applications-with-Rust-A-Step-by-Step-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 634,
@@ -189,7 +189,7 @@
         "filename": "Working-with-Rusts-Standard-Library-A-Beginners-Introduction.md",
         "post_title": "Working with Rust's Standard Library: A Beginner\u2019s Introduction",
         "post_file": "source/_posts/Working-with-Rusts-Standard-Library-A-Beginners-Introduction.md",
-        "created": false
+        "created": true
     },
     {
         "index": 635,
@@ -197,7 +197,7 @@
         "filename": "Understanding-Lifetimes-in-Rust-Key-Concepts-for-Newbies.md",
         "post_title": "Understanding Lifetimes in Rust: Key Concepts for Newbies",
         "post_file": "source/_posts/Understanding-Lifetimes-in-Rust-Key-Concepts-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 636,
@@ -205,7 +205,7 @@
         "filename": "How-to-Write-Tests-in-Rust-A-Beginners-Guide-to-Unit-Testing.md",
         "post_title": "How to Write Tests in Rust: A Beginner's Guide to Unit Testing",
         "post_file": "source/_posts/How-to-Write-Tests-in-Rust-A-Beginners-Guide-to-Unit-Testing.md",
-        "created": false
+        "created": true
     },
     {
         "index": 637,
@@ -213,7 +213,7 @@
         "filename": "Building-Efficient-Data-Structures-in-Rust-A-Guide-for-Beginners.md",
         "post_title": "Building Efficient Data Structures in Rust: A Guide for Beginners",
         "post_file": "source/_posts/Building-Efficient-Data-Structures-in-Rust-A-Guide-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 638,
@@ -221,7 +221,7 @@
         "filename": "Rust-Concurrency-A-Beginners-Introduction-to-Safe-Multithreading.md",
         "post_title": "Rust Concurrency: A Beginner\u2019s Introduction to Safe Multithreading",
         "post_file": "source/_posts/Rust-Concurrency-A-Beginners-Introduction-to-Safe-Multithreading.md",
-        "created": false
+        "created": true
     },
     {
         "index": 639,
@@ -229,7 +229,7 @@
         "filename": "Creating-and-Using-Libraries-in-Rust-A-Beginners-Tutorial.md",
         "post_title": "Creating and Using Libraries in Rust: A Beginner's Tutorial",
         "post_file": "source/_posts/Creating-and-Using-Libraries-in-Rust-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 640,
@@ -237,7 +237,7 @@
         "filename": "Debugging-Rust-Applications-Tips-for-New-Users.md",
         "post_title": "Debugging Rust Applications: Tips for New Users",
         "post_file": "source/_posts/Debugging-Rust-Applications-Tips-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 641,
@@ -245,7 +245,7 @@
         "filename": "Getting-Involved-in-the-Rust-Community-A-Beginners-Overview.md",
         "post_title": "Getting Involved in the Rust Community: A Beginner's Overview",
         "post_file": "source/_posts/Getting-Involved-in-the-Rust-Community-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 642,
@@ -253,7 +253,7 @@
         "filename": "Rust-and-WebAssembly-A-Newbies-Guide-to-Building-Web-Apps.md",
         "post_title": "Rust and WebAssembly: A Newbie's Guide to Building Web Apps",
         "post_file": "source/_posts/Rust-and-WebAssembly-A-Newbies-Guide-to-Building-Web-Apps.md",
-        "created": false
+        "created": true
     },
     {
         "index": 643,
@@ -261,7 +261,7 @@
         "filename": "How-to-Optimize-Rust-Code-Best-Practices-for-Beginners.md",
         "post_title": "How to Optimize Rust Code: Best Practices for Beginners",
         "post_file": "source/_posts/How-to-Optimize-Rust-Code-Best-Practices-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 644,
@@ -269,7 +269,7 @@
         "filename": "Integrating-Rust-with-Other-Programming-Languages-A-Beginners-Guide.md",
         "post_title": "Integrating Rust with Other Programming Languages: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Integrating-Rust-with-Other-Programming-Languages-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 645,
@@ -277,7 +277,7 @@
         "filename": "Exploring-Rust-Macros-A-Beginners-Guide-to-Metaprogramming.md",
         "post_title": "Exploring Rust Macros: A Beginner\u2019s Guide to Metaprogramming",
         "post_file": "source/_posts/Exploring-Rust-Macros-A-Beginners-Guide-to-Metaprogramming.md",
-        "created": false
+        "created": true
     },
     {
         "index": 646,
@@ -285,7 +285,7 @@
         "filename": "Best-IDEs-for-Rust-Development-A-Beginners-Comparison.md",
         "post_title": "Best IDEs for Rust Development: A Beginner's Comparison",
         "post_file": "source/_posts/Best-IDEs-for-Rust-Development-A-Beginners-Comparison.md",
-        "created": false
+        "created": true
     },
     {
         "index": 647,
@@ -293,7 +293,7 @@
         "filename": "Security-Practices-for-Rust-Programming-A-Beginners-Guide.md",
         "post_title": "Security Practices for Rust Programming: A Beginner's Guide",
         "post_file": "source/_posts/Security-Practices-for-Rust-Programming-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 648,
@@ -301,7 +301,7 @@
         "filename": "How-to-Create-a-Simple-Game-with-Rust-A-Beginners-Project.md",
         "post_title": "How to Create a Simple Game with Rust: A Beginner's Project",
         "post_file": "source/_posts/How-to-Create-a-Simple-Game-with-Rust-A-Beginners-Project.md",
-        "created": false
+        "created": true
     },
     {
         "index": 649,
@@ -309,7 +309,7 @@
         "filename": "Common-Mistakes-Every-Rust-Beginner-Should-Avoid.md",
         "post_title": "Common Mistakes Every Rust Beginner Should Avoid",
         "post_file": "source/_posts/Common-Mistakes-Every-Rust-Beginner-Should-Avoid.md",
-        "created": false
+        "created": true
     },
     {
         "index": 650,
@@ -317,7 +317,7 @@
         "filename": "Rust-vs-Other-Programming-Languages-A-Beginners-Comparison.md",
         "post_title": "Rust vs Other Programming Languages: A Beginner's Comparison",
         "post_file": "source/_posts/Rust-vs-Other-Programming-Languages-A-Beginners-Comparison.md",
-        "created": false
+        "created": true
     },
     {
         "index": 651,
@@ -325,7 +325,7 @@
         "filename": "Using-Asynchronous-Programming-in-Rust-A-Newbies-Overview.md",
         "post_title": "Using Asynchronous Programming in Rust: A Newbie's Overview",
         "post_file": "source/_posts/Using-Asynchronous-Programming-in-Rust-A-Newbies-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 652,
@@ -333,7 +333,7 @@
         "filename": "Learning-Rust-Through-Challenges-A-Beginners-Journey.md",
         "post_title": "Learning Rust Through Challenges: A Beginner's Journey",
         "post_file": "source/_posts/Learning-Rust-Through-Challenges-A-Beginners-Journey.md",
-        "created": false
+        "created": true
     },
     {
         "index": 653,
@@ -341,7 +341,7 @@
         "filename": "How-to-Publish-Your-Rust-Package-A-Beginners-Guide-to-Crates.md",
         "post_title": "How to Publish Your Rust Package: A Beginner\u2019s Guide to Crates",
         "post_file": "source/_posts/How-to-Publish-Your-Rust-Package-A-Beginners-Guide-to-Crates.md",
-        "created": false
+        "created": true
     },
     {
         "index": 654,
@@ -349,7 +349,7 @@
         "filename": "A-Beginners-Guide-to-C-Getting-Started-from-Scratch.md",
         "post_title": "A Beginner's Guide to C++: Getting Started from Scratch",
         "post_file": "source/_posts/A-Beginners-Guide-to-C-Getting-Started-from-Scratch.md",
-        "created": false
+        "created": true
     },
     {
         "index": 655,
@@ -357,7 +357,7 @@
         "filename": "Mastering-C-Your-Step-by-Step-Journey-from-Zero-to-Hero.md",
         "post_title": "Mastering C++: Your Step-by-Step Journey from Zero to Hero",
         "post_file": "source/_posts/Mastering-C-Your-Step-by-Step-Journey-from-Zero-to-Hero.md",
-        "created": false
+        "created": true
     },
     {
         "index": 656,
@@ -365,7 +365,7 @@
         "filename": "Essential-Concepts-for-New-C-Developers-Learn-Step-by-Step.md",
         "post_title": "Essential Concepts for New C++ Developers: Learn Step by Step",
         "post_file": "source/_posts/Essential-Concepts-for-New-C-Developers-Learn-Step-by-Step.md",
-        "created": false
+        "created": true
     },
     {
         "index": 657,
@@ -373,7 +373,7 @@
         "filename": "Building-Your-First-C-Application-A-Complete-Beginners-Guide.md",
         "post_title": "Building Your First C++ Application: A Complete Beginner\u2019s Guide",
         "post_file": "source/_posts/Building-Your-First-C-Application-A-Complete-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 658,
@@ -381,7 +381,7 @@
         "filename": "Understanding-Object-Oriented-Programming-in-C-A-Beginners-Approach.md",
         "post_title": "Understanding Object-Oriented Programming in C++: A Beginner\u2019s Approach",
         "post_file": "source/_posts/Understanding-Object-Oriented-Programming-in-C-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 659,
@@ -389,7 +389,7 @@
         "filename": "C-Basics-Key-Syntax-and-Features-Every-Beginner-Should-Know.md",
         "post_title": "C++ Basics: Key Syntax and Features Every Beginner Should Know",
         "post_file": "source/_posts/C-Basics-Key-Syntax-and-Features-Every-Beginner-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 660,
@@ -397,7 +397,7 @@
         "filename": "How-to-Debug-C-Programs-Tips-for-Beginners.md",
         "post_title": "How to Debug C++ Programs: Tips for Beginners",
         "post_file": "source/_posts/How-to-Debug-C-Programs-Tips-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 661,
@@ -405,7 +405,7 @@
         "filename": "Creating-a-Simple-Game-with-C-A-Fun-Beginners-Project.md",
         "post_title": "Creating a Simple Game with C++: A Fun Beginner's Project",
         "post_file": "source/_posts/Creating-a-Simple-Game-with-C-A-Fun-Beginners-Project.md",
-        "created": false
+        "created": true
     },
     {
         "index": 662,
@@ -413,7 +413,7 @@
         "filename": "C-Best-Practices-Coding-Standards-for-New-Developers.md",
         "post_title": "C++ Best Practices: Coding Standards for New Developers",
         "post_file": "source/_posts/C-Best-Practices-Coding-Standards-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 663,
@@ -421,7 +421,7 @@
         "filename": "Data-Structures-in-C-A-Beginners-Guide.md",
         "post_title": "Data Structures in C++: A Beginner's Guide",
         "post_file": "source/_posts/Data-Structures-in-C-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 664,
@@ -429,7 +429,7 @@
         "filename": "From-C-to-C-Transitioning-Your-Skills-as-a-Beginner.md",
         "post_title": "From C to C++: Transitioning Your Skills as a Beginner",
         "post_file": "source/_posts/From-C-to-C-Transitioning-Your-Skills-as-a-Beginner.md",
-        "created": false
+        "created": true
     },
     {
         "index": 665,
@@ -437,7 +437,7 @@
         "filename": "Learning-C-A-Practical-Guide-to-Functions-and-Classes.md",
         "post_title": "Learning C++: A Practical Guide to Functions and Classes",
         "post_file": "source/_posts/Learning-C-A-Practical-Guide-to-Functions-and-Classes.md",
-        "created": false
+        "created": true
     },
     {
         "index": 666,
@@ -445,7 +445,7 @@
         "filename": "Exploring-the-C-Standard-Library-Tools-Every-Newbie-Should-Use.md",
         "post_title": "Exploring the C++ Standard Library: Tools Every Newbie Should Use",
         "post_file": "source/_posts/Exploring-the-C-Standard-Library-Tools-Every-Newbie-Should-Use.md",
-        "created": false
+        "created": true
     },
     {
         "index": 667,
@@ -453,7 +453,7 @@
         "filename": "C-Templates-A-Comprehensive-Guide-for-Beginners.md",
         "post_title": "C++ Templates: A Comprehensive Guide for Beginners",
         "post_file": "source/_posts/C-Templates-A-Comprehensive-Guide-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 668,
@@ -461,7 +461,7 @@
         "filename": "Understanding-Pointers-and-Memory-Management-in-C-A-Beginners-Guide.md",
         "post_title": "Understanding Pointers and Memory Management in C++: A Beginner's Guide",
         "post_file": "source/_posts/Understanding-Pointers-and-Memory-Management-in-C-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 669,
@@ -469,7 +469,7 @@
         "filename": "Basic-File-IO-in-C-Read-and-Write-Files-like-a-Pro.md",
         "post_title": "Basic File I/O in C++: Read and Write Files like a Pro",
         "post_file": "source/_posts/Basic-File-IO-in-C-Read-and-Write-Files-like-a-Pro.md",
-        "created": false
+        "created": true
     },
     {
         "index": 670,
@@ -477,7 +477,7 @@
         "filename": "C-for-Beginners-Tips-to-Avoid-Common-Pitfalls.md",
         "post_title": "C++ for Beginners: Tips to Avoid Common Pitfalls",
         "post_file": "source/_posts/C-for-Beginners-Tips-to-Avoid-Common-Pitfalls.md",
-        "created": false
+        "created": true
     },
     {
         "index": 671,
@@ -485,7 +485,7 @@
         "filename": "Creating-Your-First-GUI-Application-in-C-A-Step-by-Step-Guide.md",
         "post_title": "Creating Your First GUI Application in C++: A Step-by-Step Guide",
         "post_file": "source/_posts/Creating-Your-First-GUI-Application-in-C-A-Step-by-Step-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 672,
@@ -493,7 +493,7 @@
         "filename": "Multithreading-in-C-Beginners-Overview.md",
         "post_title": "Multithreading in C++: Beginner\u2019s Overview",
         "post_file": "source/_posts/Multithreading-in-C-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 673,
@@ -501,7 +501,7 @@
         "filename": "How-to-Compile-and-Run-Your-First-C-Program.md",
         "post_title": "How to Compile and Run Your First C++ Program",
         "post_file": "source/_posts/How-to-Compile-and-Run-Your-First-C-Program.md",
-        "created": false
+        "created": true
     },
     {
         "index": 674,
@@ -509,7 +509,7 @@
         "filename": "A-Step-by-Step-Approach-to-Learning-C-STL-for-Beginners.md",
         "post_title": "A Step-by-Step Approach to Learning C++ STL for Beginners",
         "post_file": "source/_posts/A-Step-by-Step-Approach-to-Learning-C-STL-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 675,
@@ -517,7 +517,7 @@
         "filename": "Effective-Error-Handling-in-C-A-Beginners-Guide.md",
         "post_title": "Effective Error Handling in C++: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Effective-Error-Handling-in-C-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 676,
@@ -525,7 +525,7 @@
         "filename": "Building-a-Simple-REST-API-with-C-For-Beginner-Developers.md",
         "post_title": "Building a Simple REST API with C++: For Beginner Developers",
         "post_file": "source/_posts/Building-a-Simple-REST-API-with-C-For-Beginner-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 677,
@@ -533,7 +533,7 @@
         "filename": "Understanding-Inheritance-and-Polymorphism-in-C.md",
         "post_title": "Understanding Inheritance and Polymorphism in C++",
         "post_file": "source/_posts/Understanding-Inheritance-and-Polymorphism-in-C.md",
-        "created": false
+        "created": true
     },
     {
         "index": 678,
@@ -541,7 +541,7 @@
         "filename": "Working-with-Libraries-in-C-A-Beginners-Guide.md",
         "post_title": "Working with Libraries in C++: A Beginner's Guide",
         "post_file": "source/_posts/Working-with-Libraries-in-C-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 679,
@@ -549,7 +549,7 @@
         "filename": "C-Coding-Challenges-for-Beginners-Practice-Your-Skills.md",
         "post_title": "C++ Coding Challenges for Beginners: Practice Your Skills",
         "post_file": "source/_posts/C-Coding-Challenges-for-Beginners-Practice-Your-Skills.md",
-        "created": false
+        "created": true
     },
     {
         "index": 680,
@@ -557,7 +557,7 @@
         "filename": "Introduction-to-Unit-Testing-in-C-A-Beginners-Guide.md",
         "post_title": "Introduction to Unit Testing in C++: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Introduction-to-Unit-Testing-in-C-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 681,
@@ -565,7 +565,7 @@
         "filename": "Networking-Basics-in-C-A-Beginners-Overview.md",
         "post_title": "Networking Basics in C++: A Beginner's Overview",
         "post_file": "source/_posts/Networking-Basics-in-C-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 682,
@@ -573,7 +573,7 @@
         "filename": "How-to-Use-Visual-Studio-for-C-Development-A-Beginners-Guide.md",
         "post_title": "How to Use Visual Studio for C++ Development: A Beginner's Guide",
         "post_file": "source/_posts/How-to-Use-Visual-Studio-for-C-Development-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 683,
@@ -581,7 +581,7 @@
         "filename": "C-Memory-Management-Understanding-malloc-and-free-for-Newbies.md",
         "post_title": "C++ Memory Management: Understanding malloc and free for Newbies",
         "post_file": "source/_posts/C-Memory-Management-Understanding-malloc-and-free-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 684,
@@ -589,7 +589,7 @@
         "filename": "Your-First-C-Class-A-Beginners-Guide-to-Object-Creation.md",
         "post_title": "Your First C++ Class: A Beginner's Guide to Object Creation",
         "post_file": "source/_posts/Your-First-C-Class-A-Beginners-Guide-to-Object-Creation.md",
-        "created": false
+        "created": true
     },
     {
         "index": 685,
@@ -597,7 +597,7 @@
         "filename": "C-vs-Other-Programming-Languages-A-Beginners-Comparison.md",
         "post_title": "C++ vs Other Programming Languages: A Beginner\u2019s Comparison",
         "post_file": "source/_posts/C-vs-Other-Programming-Languages-A-Beginners-Comparison.md",
-        "created": false
+        "created": true
     },
     {
         "index": 686,
@@ -605,7 +605,7 @@
         "filename": "Design-Patterns-in-C-A-Beginners-Introduction.md",
         "post_title": "Design Patterns in C++: A Beginner's Introduction",
         "post_file": "source/_posts/Design-Patterns-in-C-A-Beginners-Introduction.md",
-        "created": false
+        "created": true
     },
     {
         "index": 687,
@@ -613,7 +613,7 @@
         "filename": "Building-Command-Line-Applications-with-C-Step-by-Step.md",
         "post_title": "Building Command Line Applications with C++: Step-by-Step",
         "post_file": "source/_posts/Building-Command-Line-Applications-with-C-Step-by-Step.md",
-        "created": false
+        "created": true
     },
     {
         "index": 688,
@@ -621,7 +621,7 @@
         "filename": "A-Beginners-Guide-to-C-Getting-Started-with-the-Basics.md",
         "post_title": "A Beginner's Guide to C: Getting Started with the Basics",
         "post_file": "source/_posts/A-Beginners-Guide-to-C-Getting-Started-with-the-Basics.md",
-        "created": false
+        "created": true
     },
     {
         "index": 689,
@@ -629,7 +629,7 @@
         "filename": "Understanding-C-Your-First-Steps-into-Programming.md",
         "post_title": "Understanding C: Your First Steps into Programming",
         "post_file": "source/_posts/Understanding-C-Your-First-Steps-into-Programming.md",
-        "created": false
+        "created": true
     },
     {
         "index": 690,
@@ -637,7 +637,7 @@
         "filename": "Mastering-C-Programming-A-Structured-Approach-for-Beginners.md",
         "post_title": "Mastering C Programming: A Structured Approach for Beginners",
         "post_file": "source/_posts/Mastering-C-Programming-A-Structured-Approach-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 691,
@@ -645,7 +645,7 @@
         "filename": "Building-Your-First-C-Program-Step-by-Step-for-New-Users.md",
         "post_title": "Building Your First C Program: Step-by-Step for New Users",
         "post_file": "source/_posts/Building-Your-First-C-Program-Step-by-Step-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 692,
@@ -653,7 +653,7 @@
         "filename": "C-Language-Basics-Key-Concepts-You-Need-to-Know.md",
         "post_title": "C Language Basics: Key Concepts You Need to Know",
         "post_file": "source/_posts/C-Language-Basics-Key-Concepts-You-Need-to-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 693,
@@ -661,7 +661,7 @@
         "filename": "How-to-Use-Pointers-in-C-A-Complete-Beginners-Guide.md",
         "post_title": "How to Use Pointers in C: A Complete Beginner\u2019s Guide",
         "post_file": "source/_posts/How-to-Use-Pointers-in-C-A-Complete-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 694,
@@ -669,7 +669,7 @@
         "filename": "Creating-Data-Structures-in-C-A-Beginners-Tutorial.md",
         "post_title": "Creating Data Structures in C: A Beginner\u2019s Tutorial",
         "post_file": "source/_posts/Creating-Data-Structures-in-C-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 695,
@@ -677,7 +677,7 @@
         "filename": "Understanding-Control-Flow-in-C-If-Statements-and-Loops-Explained.md",
         "post_title": "Understanding Control Flow in C: If Statements and Loops Explained",
         "post_file": "source/_posts/Understanding-Control-Flow-in-C-If-Statements-and-Loops-Explained.md",
-        "created": false
+        "created": true
     },
     {
         "index": 696,
@@ -685,7 +685,7 @@
         "filename": "Memory-Management-in-C-A-Beginners-Guide-to-malloc-and-free.md",
         "post_title": "Memory Management in C: A Beginner's Guide to malloc and free",
         "post_file": "source/_posts/Memory-Management-in-C-A-Beginners-Guide-to-malloc-and-free.md",
-        "created": false
+        "created": true
     },
     {
         "index": 697,
@@ -693,7 +693,7 @@
         "filename": "File-IO-in-C-How-to-Read-and-Write-Files-Like-a-Pro.md",
         "post_title": "File I/O in C: How to Read and Write Files Like a Pro",
         "post_file": "source/_posts/File-IO-in-C-How-to-Read-and-Write-Files-Like-a-Pro.md",
-        "created": false
+        "created": true
     },
     {
         "index": 698,
@@ -701,7 +701,7 @@
         "filename": "C-Programming-Best-Practices-Tips-for-Beginners.md",
         "post_title": "C Programming Best Practices: Tips for Beginners",
         "post_file": "source/_posts/C-Programming-Best-Practices-Tips-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 699,
@@ -709,7 +709,7 @@
         "filename": "Debugging-Your-First-C-Program-Essential-Techniques.md",
         "post_title": "Debugging Your First C Program: Essential Techniques",
         "post_file": "source/_posts/Debugging-Your-First-C-Program-Essential-Techniques.md",
-        "created": false
+        "created": true
     },
     {
         "index": 700,
@@ -717,7 +717,7 @@
         "filename": "An-Introduction-to-Functions-in-C-Building-Modular-Code.md",
         "post_title": "An Introduction to Functions in C: Building Modular Code",
         "post_file": "source/_posts/An-Introduction-to-Functions-in-C-Building-Modular-Code.md",
-        "created": false
+        "created": true
     },
     {
         "index": 701,
@@ -725,7 +725,7 @@
         "filename": "Working-with-Arrays-and-Strings-in-C-Basics-Every-Beginner-Should-Know.md",
         "post_title": "Working with Arrays and Strings in C: Basics Every Beginner Should Know",
         "post_file": "source/_posts/Working-with-Arrays-and-Strings-in-C-Basics-Every-Beginner-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 702,
@@ -733,7 +733,7 @@
         "filename": "Common-Errors-in-C-Programming-and-How-to-Avoid-Them.md",
         "post_title": "Common Errors in C Programming and How to Avoid Them",
         "post_file": "source/_posts/Common-Errors-in-C-Programming-and-How-to-Avoid-Them.md",
-        "created": false
+        "created": true
     },
     {
         "index": 703,
@@ -741,7 +741,7 @@
         "filename": "A-Beginners-Guide-to-Structures-and-Unions-in-C.md",
         "post_title": "A Beginner's Guide to Structures and Unions in C",
         "post_file": "source/_posts/A-Beginners-Guide-to-Structures-and-Unions-in-C.md",
-        "created": false
+        "created": true
     },
     {
         "index": 704,
@@ -749,7 +749,7 @@
         "filename": "Learn-C-Top-Resources-for-Self-Study-Beginners.md",
         "post_title": "Learn C: Top Resources for Self-Study Beginners",
         "post_file": "source/_posts/Learn-C-Top-Resources-for-Self-Study-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 705,
@@ -757,7 +757,7 @@
         "filename": "Using-Makefiles-for-C-Projects-A-Beginners-Guide.md",
         "post_title": "Using Makefiles for C Projects: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Using-Makefiles-for-C-Projects-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 706,
@@ -765,7 +765,7 @@
         "filename": "How-to-Compile-Your-First-C-Program-Command-Line-Basics.md",
         "post_title": "How to Compile Your First C Program: Command Line Basics",
         "post_file": "source/_posts/How-to-Compile-Your-First-C-Program-Command-Line-Basics.md",
-        "created": false
+        "created": true
     },
     {
         "index": 707,
@@ -773,7 +773,7 @@
         "filename": "C-vs-C-Understanding-the-Differences-for-New-Developers.md",
         "post_title": "C vs C++: Understanding the Differences for New Developers",
         "post_file": "source/_posts/C-vs-C-Understanding-the-Differences-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 708,
@@ -781,7 +781,7 @@
         "filename": "Creating-a-Simple-Calculator-in-C-A-Beginners-Project.md",
         "post_title": "Creating a Simple Calculator in C: A Beginner's Project",
         "post_file": "source/_posts/Creating-a-Simple-Calculator-in-C-A-Beginners-Project.md",
-        "created": false
+        "created": true
     },
     {
         "index": 709,
@@ -789,7 +789,7 @@
         "filename": "Dynamic-Memory-Allocation-in-C-A-Comprehensive-Guide.md",
         "post_title": "Dynamic Memory Allocation in C: A Comprehensive Guide",
         "post_file": "source/_posts/Dynamic-Memory-Allocation-in-C-A-Comprehensive-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 710,
@@ -797,7 +797,7 @@
         "filename": "How-to-Use-Git-for-Version-Control-in-C-Projects.md",
         "post_title": "How to Use Git for Version Control in C Projects",
         "post_file": "source/_posts/How-to-Use-Git-for-Version-Control-in-C-Projects.md",
-        "created": false
+        "created": true
     },
     {
         "index": 711,
@@ -805,7 +805,7 @@
         "filename": "Understanding-the-C-Standard-Library-for-Beginners.md",
         "post_title": "Understanding the C Standard Library for Beginners",
         "post_file": "source/_posts/Understanding-the-C-Standard-Library-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 712,
@@ -813,7 +813,7 @@
         "filename": "Building-Simple-Algorithms-in-C-Step-by-Step-Instructions.md",
         "post_title": "Building Simple Algorithms in C: Step-by-Step Instructions",
         "post_file": "source/_posts/Building-Simple-Algorithms-in-C-Step-by-Step-Instructions.md",
-        "created": false
+        "created": true
     },
     {
         "index": 713,
@@ -821,7 +821,7 @@
         "filename": "The-Importance-of-Comments-and-Documentation-in-C-Programming.md",
         "post_title": "The Importance of Comments and Documentation in C Programming",
         "post_file": "source/_posts/The-Importance-of-Comments-and-Documentation-in-C-Programming.md",
-        "created": false
+        "created": true
     },
     {
         "index": 714,
@@ -829,7 +829,7 @@
         "filename": "Getting-Started-with-C11-Features-A-Beginners-Approach.md",
         "post_title": "Getting Started with C11 Features: A Beginner\u2019s Approach",
         "post_file": "source/_posts/Getting-Started-with-C11-Features-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 715,
@@ -837,7 +837,7 @@
         "filename": "Advanced-Data-Handling-with-Pointers-in-C-Beginner-Friendly-Examples.md",
         "post_title": "Advanced Data Handling with Pointers in C: Beginner-Friendly Examples",
         "post_file": "source/_posts/Advanced-Data-Handling-with-Pointers-in-C-Beginner-Friendly-Examples.md",
-        "created": false
+        "created": true
     },
     {
         "index": 716,
@@ -845,7 +845,7 @@
         "filename": "Implementing-Linked-Lists-in-C-A-Beginners-Guide.md",
         "post_title": "Implementing Linked Lists in C: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Implementing-Linked-Lists-in-C-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 717,
@@ -853,7 +853,7 @@
         "filename": "C-Programming-Challenges-for-Beginners-Test-Your-Skills.md",
         "post_title": "C Programming Challenges for Beginners: Test Your Skills",
         "post_file": "source/_posts/C-Programming-Challenges-for-Beginners-Test-Your-Skills.md",
-        "created": false
+        "created": true
     },
     {
         "index": 718,
@@ -861,7 +861,7 @@
         "filename": "Writing-Efficient-C-Code-Best-Practices-for-New-Developers.md",
         "post_title": "Writing Efficient C Code: Best Practices for New Developers",
         "post_file": "source/_posts/Writing-Efficient-C-Code-Best-Practices-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 719,
@@ -869,7 +869,7 @@
         "filename": "Understanding-the-Preprocessor-in-C-A-Beginners-Guide.md",
         "post_title": "Understanding the Preprocessor in C: A Beginner's Guide",
         "post_file": "source/_posts/Understanding-the-Preprocessor-in-C-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 720,
@@ -877,7 +877,7 @@
         "filename": "How-to-Work-with-C-Libraries-A-Step-by-Step-Guide.md",
         "post_title": "How to Work with C Libraries: A Step-by-Step Guide",
         "post_file": "source/_posts/How-to-Work-with-C-Libraries-A-Step-by-Step-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 721,
@@ -885,7 +885,7 @@
         "filename": "Getting-Started-with-Perl-A-Comprehensive-Beginners-Guide.md",
         "post_title": "Getting Started with Perl: A Comprehensive Beginner's Guide",
         "post_file": "source/_posts/Getting-Started-with-Perl-A-Comprehensive-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 722,
@@ -893,7 +893,7 @@
         "filename": "Your-First-Perl-Script-How-to-Write-and-Run-It-from-Scratch.md",
         "post_title": "Your First Perl Script: How to Write and Run It from Scratch",
         "post_file": "source/_posts/Your-First-Perl-Script-How-to-Write-and-Run-It-from-Scratch.md",
-        "created": false
+        "created": true
     },
     {
         "index": 723,
@@ -901,7 +901,7 @@
         "filename": "Mastering-Perl-Fundamental-Concepts-Every-Beginner-Should-Know.md",
         "post_title": "Mastering Perl: Fundamental Concepts Every Beginner Should Know",
         "post_file": "source/_posts/Mastering-Perl-Fundamental-Concepts-Every-Beginner-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 724,
@@ -909,7 +909,7 @@
         "filename": "Perl-Basics-Syntax-and-Data-Types-Explained-for-Newbies.md",
         "post_title": "Perl Basics: Syntax and Data Types Explained for Newbies",
         "post_file": "source/_posts/Perl-Basics-Syntax-and-Data-Types-Explained-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 725,
@@ -917,7 +917,7 @@
         "filename": "Creating-Effective-Loops-and-Control-Structures-in-Perl-A-Beginners-Guide.md",
         "post_title": "Creating Effective Loops and Control Structures in Perl: A Beginner's Guide",
         "post_file": "source/_posts/Creating-Effective-Loops-and-Control-Structures-in-Perl-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 726,
@@ -925,7 +925,7 @@
         "filename": "Understanding-Regular-Expressions-in-Perl-An-Introductory-Guide.md",
         "post_title": "Understanding Regular Expressions in Perl: An Introductory Guide",
         "post_file": "source/_posts/Understanding-Regular-Expressions-in-Perl-An-Introductory-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 727,
@@ -933,7 +933,7 @@
         "filename": "From-Zero-to-Perl-Pro-Learning-the-Basics-Step-by-Step.md",
         "post_title": "From Zero to Perl Pro: Learning the Basics Step by Step",
         "post_file": "source/_posts/From-Zero-to-Perl-Pro-Learning-the-Basics-Step-by-Step.md",
-        "created": false
+        "created": true
     },
     {
         "index": 728,
@@ -941,7 +941,7 @@
         "filename": "Working-with-Files-in-Perl-A-Beginners-Overview.md",
         "post_title": "Working with Files in Perl: A Beginner's Overview",
         "post_file": "source/_posts/Working-with-Files-in-Perl-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 729,
@@ -949,7 +949,7 @@
         "filename": "Using-CPAN-to-Enhance-Your-Perl-Scripts-A-Guide-for-Beginners.md",
         "post_title": "Using CPAN to Enhance Your Perl Scripts: A Guide for Beginners",
         "post_file": "source/_posts/Using-CPAN-to-Enhance-Your-Perl-Scripts-A-Guide-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 730,
@@ -957,7 +957,7 @@
         "filename": "Creating-Subroutines-in-Perl-Coding-Reusable-Functions-Step-by-Step.md",
         "post_title": "Creating Subroutines in Perl: Coding Reusable Functions Step by Step",
         "post_file": "source/_posts/Creating-Subroutines-in-Perl-Coding-Reusable-Functions-Step-by-Step.md",
-        "created": false
+        "created": true
     },
     {
         "index": 731,
@@ -965,7 +965,7 @@
         "filename": "Perl-Best-Practices-Essential-Tips-for-New-Developers.md",
         "post_title": "Perl Best Practices: Essential Tips for New Developers",
         "post_file": "source/_posts/Perl-Best-Practices-Essential-Tips-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 732,
@@ -973,7 +973,7 @@
         "filename": "Exploring-Perl-Modules-A-Beginners-Guide-to-Reusability.md",
         "post_title": "Exploring Perl Modules: A Beginner\u2019s Guide to Reusability",
         "post_file": "source/_posts/Exploring-Perl-Modules-A-Beginners-Guide-to-Reusability.md",
-        "created": false
+        "created": true
     },
     {
         "index": 733,
@@ -981,7 +981,7 @@
         "filename": "Error-Handling-in-Perl-Best-Practices-for-Beginners.md",
         "post_title": "Error Handling in Perl: Best Practices for Beginners",
         "post_file": "source/_posts/Error-Handling-in-Perl-Best-Practices-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 734,
@@ -989,7 +989,7 @@
         "filename": "Building-a-Simple-Web-Scraper-using-Perl-A-Beginners-Tutorial.md",
         "post_title": "Building a Simple Web Scraper using Perl: A Beginner's Tutorial",
         "post_file": "source/_posts/Building-a-Simple-Web-Scraper-using-Perl-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 735,
@@ -997,7 +997,7 @@
         "filename": "Understanding-Perl-Context-Scalar-vs-List-in-Simple-Terms.md",
         "post_title": "Understanding Perl Context: Scalar vs List in Simple Terms",
         "post_file": "source/_posts/Understanding-Perl-Context-Scalar-vs-List-in-Simple-Terms.md",
-        "created": false
+        "created": true
     },
     {
         "index": 736,
@@ -1005,7 +1005,7 @@
         "filename": "A-Step-by-Step-Guide-to-Object-Oriented-Perl-Programming-for-Beginners.md",
         "post_title": "A Step-by-Step Guide to Object-Oriented Perl Programming for Beginners",
         "post_file": "source/_posts/A-Step-by-Step-Guide-to-Object-Oriented-Perl-Programming-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 737,
@@ -1013,7 +1013,7 @@
         "filename": "String-Manipulation-in-Perl-Techniques-Every-New-Developer-Should-Know.md",
         "post_title": "String Manipulation in Perl: Techniques Every New Developer Should Know",
         "post_file": "source/_posts/String-Manipulation-in-Perl-Techniques-Every-New-Developer-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 738,
@@ -1021,7 +1021,7 @@
         "filename": "Creating-and-Using-Arrays-and-Hashes-in-Perl-A-Beginners-Approach.md",
         "post_title": "Creating and Using Arrays and Hashes in Perl: A Beginner's Approach",
         "post_file": "source/_posts/Creating-and-Using-Arrays-and-Hashes-in-Perl-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 739,
@@ -1029,7 +1029,7 @@
         "filename": "How-to-Debug-Your-Perl-Code-Techniques-for-Newbies.md",
         "post_title": "How to Debug Your Perl Code: Techniques for Newbies",
         "post_file": "source/_posts/How-to-Debug-Your-Perl-Code-Techniques-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 740,
@@ -1037,7 +1037,7 @@
         "filename": "Introduction-to-Perl-Programming-with-Practical-Examples.md",
         "post_title": "Introduction to Perl Programming with Practical Examples",
         "post_file": "source/_posts/Introduction-to-Perl-Programming-with-Practical-Examples.md",
-        "created": false
+        "created": true
     },
     {
         "index": 741,
@@ -1045,7 +1045,7 @@
         "filename": "Best-Tools-and-IDEs-for-Perl-Development-Beginners-Guide.md",
         "post_title": "Best Tools and IDEs for Perl Development: Beginner\u2019s Guide",
         "post_file": "source/_posts/Best-Tools-and-IDEs-for-Perl-Development-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 742,
@@ -1053,7 +1053,7 @@
         "filename": "Creating-Simple-CGI-Scripts-with-Perl-A-First-Step-into-Web-Programming.md",
         "post_title": "Creating Simple CGI Scripts with Perl: A First Step into Web Programming",
         "post_file": "source/_posts/Creating-Simple-CGI-Scripts-with-Perl-A-First-Step-into-Web-Programming.md",
-        "created": false
+        "created": true
     },
     {
         "index": 743,
@@ -1061,7 +1061,7 @@
         "filename": "Working-with-Date-and-Time-in-Perl-A-Beginners-Guide.md",
         "post_title": "Working with Date and Time in Perl: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Working-with-Date-and-Time-in-Perl-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 744,
@@ -1069,7 +1069,7 @@
         "filename": "How-to-Connect-to-Databases-Using-Perl-Step-by-Step-Guide.md",
         "post_title": "How to Connect to Databases Using Perl: Step-by-Step Guide",
         "post_file": "source/_posts/How-to-Connect-to-Databases-Using-Perl-Step-by-Step-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 745,
@@ -1077,7 +1077,7 @@
         "filename": "Exploring-Perls-Built-in-Functions-Essential-for-Beginners.md",
         "post_title": "Exploring Perl\u2019s Built-in Functions: Essential for Beginners",
         "post_file": "source/_posts/Exploring-Perls-Built-in-Functions-Essential-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 746,
@@ -1085,7 +1085,7 @@
         "filename": "Common-Pitfalls-in-Perl-Programming-and-How-to-Avoid-Them.md",
         "post_title": "Common Pitfalls in Perl Programming and How to Avoid Them",
         "post_file": "source/_posts/Common-Pitfalls-in-Perl-Programming-and-How-to-Avoid-Them.md",
-        "created": false
+        "created": true
     },
     {
         "index": 747,
@@ -1093,7 +1093,7 @@
         "filename": "Creating-Command-Line-Applications-with-Perl-A-Beginners-Tutorial.md",
         "post_title": "Creating Command-Line Applications with Perl: A Beginner's Tutorial",
         "post_file": "source/_posts/Creating-Command-Line-Applications-with-Perl-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 748,
@@ -1101,7 +1101,7 @@
         "filename": "Building-Your-First-Perl-Module-A-Simple-Guide-for-New-Developers.md",
         "post_title": "Building Your First Perl Module: A Simple Guide for New Developers",
         "post_file": "source/_posts/Building-Your-First-Perl-Module-A-Simple-Guide-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 749,
@@ -1109,7 +1109,7 @@
         "filename": "Comparing-Perl-with-Other-Languages-What-Beginners-Should-Know.md",
         "post_title": "Comparing Perl with Other Languages: What Beginners Should Know",
         "post_file": "source/_posts/Comparing-Perl-with-Other-Languages-What-Beginners-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 750,
@@ -1117,7 +1117,7 @@
         "filename": "Learning-Perl-through-Real-world-Examples-A-Beginners-Approach.md",
         "post_title": "Learning Perl through Real-world Examples: A Beginner's Approach",
         "post_file": "source/_posts/Learning-Perl-through-Real-world-Examples-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 751,
@@ -1125,7 +1125,7 @@
         "filename": "Understanding-Perls-Scope-and-Variables-A-Simple-Explanation.md",
         "post_title": "Understanding Perl's Scope and Variables: A Simple Explanation",
         "post_file": "source/_posts/Understanding-Perls-Scope-and-Variables-A-Simple-Explanation.md",
-        "created": false
+        "created": true
     },
     {
         "index": 752,
@@ -1133,7 +1133,7 @@
         "filename": "A-Beginners-Journey-into-Perl-Tips-for-Learning-Effectively.md",
         "post_title": "A Beginner's Journey into Perl: Tips for Learning Effectively",
         "post_file": "source/_posts/A-Beginners-Journey-into-Perl-Tips-for-Learning-Effectively.md",
-        "created": false
+        "created": true
     },
     {
         "index": 753,
@@ -1141,7 +1141,7 @@
         "filename": "Getting-Involved-in-the-Perl-Community-Where-to-Start-as-a-Beginner.md",
         "post_title": "Getting Involved in the Perl Community: Where to Start as a Beginner",
         "post_file": "source/_posts/Getting-Involved-in-the-Perl-Community-Where-to-Start-as-a-Beginner.md",
-        "created": false
+        "created": true
     },
     {
         "index": 754,
@@ -1149,7 +1149,7 @@
         "filename": "Getting-Started-with-Linux-Shell-A-Beginners-Guide-to-Command-Line.md",
         "post_title": "Getting Started with Linux Shell: A Beginner's Guide to Command Line",
         "post_file": "source/_posts/Getting-Started-with-Linux-Shell-A-Beginners-Guide-to-Command-Line.md",
-        "created": false
+        "created": true
     },
     {
         "index": 755,
@@ -1157,7 +1157,7 @@
         "filename": "Mastering-the-Basics-of-Linux-Shell-Essential-Commands-for-Newbies.md",
         "post_title": "Mastering the Basics of Linux Shell: Essential Commands for Newbies",
         "post_file": "source/_posts/Mastering-the-Basics-of-Linux-Shell-Essential-Commands-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 756,
@@ -1165,7 +1165,7 @@
         "filename": "How-to-Navigate-the-Linux-File-System-A-Beginners-Tutorial.md",
         "post_title": "How to Navigate the Linux File System: A Beginner's Tutorial",
         "post_file": "source/_posts/How-to-Navigate-the-Linux-File-System-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 757,
@@ -1173,7 +1173,7 @@
         "filename": "Creating-and-Running-Shell-Scripts-Your-First-Steps-in-Linux.md",
         "post_title": "Creating and Running Shell Scripts: Your First Steps in Linux",
         "post_file": "source/_posts/Creating-and-Running-Shell-Scripts-Your-First-Steps-in-Linux.md",
-        "created": false
+        "created": true
     },
     {
         "index": 758,
@@ -1181,7 +1181,7 @@
         "filename": "Understanding-Permissions-in-Linux-A-Comprehensive-Guide-for-Beginners.md",
         "post_title": "Understanding Permissions in Linux: A Comprehensive Guide for Beginners",
         "post_file": "source/_posts/Understanding-Permissions-in-Linux-A-Comprehensive-Guide-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 759,
@@ -1189,7 +1189,7 @@
         "filename": "Linux-Shell-Basics-Commonly-Used-Commands-You-Should-Know.md",
         "post_title": "Linux Shell Basics: Commonly Used Commands You Should Know",
         "post_file": "source/_posts/Linux-Shell-Basics-Commonly-Used-Commands-You-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 760,
@@ -1197,7 +1197,7 @@
         "filename": "How-to-Manage-Processes-in-Linux-Shell-A-Beginners-Overview.md",
         "post_title": "How to Manage Processes in Linux Shell: A Beginner's Overview",
         "post_file": "source/_posts/How-to-Manage-Processes-in-Linux-Shell-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 761,
@@ -1205,7 +1205,7 @@
         "filename": "Understanding-Environmental-Variables-in-Linux-A-Simple-Guide.md",
         "post_title": "Understanding Environmental Variables in Linux: A Simple Guide",
         "post_file": "source/_posts/Understanding-Environmental-Variables-in-Linux-A-Simple-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 762,
@@ -1213,7 +1213,7 @@
         "filename": "Mastering-Text-Processing-with-Linux-Shell-awk-and-sed-for-Beginners.md",
         "post_title": "Mastering Text Processing with Linux Shell: awk and sed for Beginners",
         "post_file": "source/_posts/Mastering-Text-Processing-with-Linux-Shell-awk-and-sed-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 763,
@@ -1221,7 +1221,7 @@
         "filename": "Creating-Automated-Tasks-with-Cron-Jobs-A-Beginners-Approach.md",
         "post_title": "Creating Automated Tasks with Cron Jobs: A Beginner's Approach",
         "post_file": "source/_posts/Creating-Automated-Tasks-with-Cron-Jobs-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 764,
@@ -1229,7 +1229,7 @@
         "filename": "File-IO-in-Linux-Shell-Working-with-Files-Efficiently.md",
         "post_title": "File I/O in Linux Shell: Working with Files Efficiently",
         "post_file": "source/_posts/File-IO-in-Linux-Shell-Working-with-Files-Efficiently.md",
-        "created": false
+        "created": true
     },
     {
         "index": 765,
@@ -1237,7 +1237,7 @@
         "filename": "Linux-Shell-Scripting-Your-First-Script-in-5-Easy-Steps.md",
         "post_title": "Linux Shell Scripting: Your First Script in 5 Easy Steps",
         "post_file": "source/_posts/Linux-Shell-Scripting-Your-First-Script-in-5-Easy-Steps.md",
-        "created": false
+        "created": true
     },
     {
         "index": 766,
@@ -1245,7 +1245,7 @@
         "filename": "Understanding-Shell-Prompt-and-Customization-A-Beginners-Guide.md",
         "post_title": "Understanding Shell Prompt and Customization: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Understanding-Shell-Prompt-and-Customization-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 767,
@@ -1253,7 +1253,7 @@
         "filename": "Learning-to-Use-grep-and-find-in-Linux-Essential-for-Newbies.md",
         "post_title": "Learning to Use grep and find in Linux: Essential for Newbies",
         "post_file": "source/_posts/Learning-to-Use-grep-and-find-in-Linux-Essential-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 768,
@@ -1261,7 +1261,7 @@
         "filename": "A-Beginners-Guide-to-Networking-Commands-in-Linux-Shell.md",
         "post_title": "A Beginner\u2019s Guide to Networking Commands in Linux Shell",
         "post_file": "source/_posts/A-Beginners-Guide-to-Networking-Commands-in-Linux-Shell.md",
-        "created": false
+        "created": true
     },
     {
         "index": 769,
@@ -1269,7 +1269,7 @@
         "filename": "How-to-Debug-Shell-Scripts-Common-Errors-Every-Beginner-Should-Know.md",
         "post_title": "How to Debug Shell Scripts: Common Errors Every Beginner Should Know",
         "post_file": "source/_posts/How-to-Debug-Shell-Scripts-Common-Errors-Every-Beginner-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 770,
@@ -1277,7 +1277,7 @@
         "filename": "Understanding-Pipes-and-Redirection-in-Linux-Shell.md",
         "post_title": "Understanding Pipes and Redirection in Linux Shell",
         "post_file": "source/_posts/Understanding-Pipes-and-Redirection-in-Linux-Shell.md",
-        "created": false
+        "created": true
     },
     {
         "index": 771,
@@ -1285,7 +1285,7 @@
         "filename": "Getting-Comfortable-with-Bash-Scripting-A-Practical-Beginners-Guide.md",
         "post_title": "Getting Comfortable with Bash Scripting: A Practical Beginner\u2019s Guide",
         "post_file": "source/_posts/Getting-Comfortable-with-Bash-Scripting-A-Practical-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 772,
@@ -1293,7 +1293,7 @@
         "filename": "Managing-Packages-in-Linux-A-Beginners-Guide-to-apt-and-yum.md",
         "post_title": "Managing Packages in Linux: A Beginner\u2019s Guide to apt and yum",
         "post_file": "source/_posts/Managing-Packages-in-Linux-A-Beginners-Guide-to-apt-and-yum.md",
-        "created": false
+        "created": true
     },
     {
         "index": 773,
@@ -1301,7 +1301,7 @@
         "filename": "How-to-Use-Git-in-the-Linux-Shell-A-Beginners-Workflow.md",
         "post_title": "How to Use Git in the Linux Shell: A Beginner's Workflow",
         "post_file": "source/_posts/How-to-Use-Git-in-the-Linux-Shell-A-Beginners-Workflow.md",
-        "created": false
+        "created": true
     },
     {
         "index": 774,
@@ -1309,7 +1309,7 @@
         "filename": "Finding-Files-in-Linux-A-Beginners-Guide-to-locate-and-which.md",
         "post_title": "Finding Files in Linux: A Beginner\u2019s Guide to locate and which",
         "post_file": "source/_posts/Finding-Files-in-Linux-A-Beginners-Guide-to-locate-and-which.md",
-        "created": false
+        "created": true
     },
     {
         "index": 775,
@@ -1317,7 +1317,7 @@
         "filename": "Working-with-Text-Files-in-Linux-cat-less-and-more-for-Beginners.md",
         "post_title": "Working with Text Files in Linux: cat, less, and more for Beginners",
         "post_file": "source/_posts/Working-with-Text-Files-in-Linux-cat-less-and-more-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 776,
@@ -1325,7 +1325,7 @@
         "filename": "Creating-User-Management-Scripts-A-Step-by-Step-Guide-for-Newbies.md",
         "post_title": "Creating User Management Scripts: A Step-by-Step Guide for Newbies",
         "post_file": "source/_posts/Creating-User-Management-Scripts-A-Step-by-Step-Guide-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 777,
@@ -1333,7 +1333,7 @@
         "filename": "Understanding-Linux-Shell-Variables-A-Beginners-Overview.md",
         "post_title": "Understanding Linux Shell Variables: A Beginner's Overview",
         "post_file": "source/_posts/Understanding-Linux-Shell-Variables-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 778,
@@ -1341,7 +1341,7 @@
         "filename": "How-to-Use-the-History-Command-in-Linux-Shell-Tips-for-Beginners.md",
         "post_title": "How to Use the History Command in Linux Shell: Tips for Beginners",
         "post_file": "source/_posts/How-to-Use-the-History-Command-in-Linux-Shell-Tips-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 779,
@@ -1349,7 +1349,7 @@
         "filename": "Getting-Started-with-Shell-Functions-A-Beginners-Guide.md",
         "post_title": "Getting Started with Shell Functions: A Beginner's Guide",
         "post_file": "source/_posts/Getting-Started-with-Shell-Functions-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 780,
@@ -1357,7 +1357,7 @@
         "filename": "Linux-Command-Line-Best-Practices-for-New-Users.md",
         "post_title": "Linux Command Line Best Practices for New Users",
         "post_file": "source/_posts/Linux-Command-Line-Best-Practices-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 781,
@@ -1365,7 +1365,7 @@
         "filename": "Understanding-the-Role-of-Shell-in-Linux-A-Beginners-Insight.md",
         "post_title": "Understanding the Role of Shell in Linux: A Beginner\u2019s Insight",
         "post_file": "source/_posts/Understanding-the-Role-of-Shell-in-Linux-A-Beginners-Insight.md",
-        "created": false
+        "created": true
     },
     {
         "index": 782,
@@ -1373,7 +1373,7 @@
         "filename": "A-Beginners-Guide-to-Version-Control-with-Git-in-Linux.md",
         "post_title": "A Beginner\u2019s Guide to Version Control with Git in Linux",
         "post_file": "source/_posts/A-Beginners-Guide-to-Version-Control-with-Git-in-Linux.md",
-        "created": false
+        "created": true
     },
     {
         "index": 783,
@@ -1381,7 +1381,7 @@
         "filename": "Working-with-Docker-in-Linux-Shell-A-Beginners-Introduction.md",
         "post_title": "Working with Docker in Linux Shell: A Beginner's Introduction",
         "post_file": "source/_posts/Working-with-Docker-in-Linux-Shell-A-Beginners-Introduction.md",
-        "created": false
+        "created": true
     },
     {
         "index": 784,
@@ -1389,7 +1389,7 @@
         "filename": "Creating-Scheduled-Backups-using-Shell-Scripts-A-Beginners-Guide.md",
         "post_title": "Creating Scheduled Backups using Shell Scripts: A Beginner's Guide",
         "post_file": "source/_posts/Creating-Scheduled-Backups-using-Shell-Scripts-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 785,
@@ -1397,7 +1397,7 @@
         "filename": "Common-Shell-Commands-and-Their-Uses-A-Beginners-Reference.md",
         "post_title": "Common Shell Commands and Their Uses: A Beginner\u2019s Reference",
         "post_file": "source/_posts/Common-Shell-Commands-and-Their-Uses-A-Beginners-Reference.md",
-        "created": false
+        "created": true
     },
     {
         "index": 786,
@@ -1405,7 +1405,7 @@
         "filename": "How-to-Find-Help-in-Linux-Shell-Using-man-and-info-Commands.md",
         "post_title": "How to Find Help in Linux Shell: Using man and info Commands",
         "post_file": "source/_posts/How-to-Find-Help-in-Linux-Shell-Using-man-and-info-Commands.md",
-        "created": false
+        "created": true
     },
     {
         "index": 787,
@@ -1413,7 +1413,7 @@
         "filename": "Exploring-Shell-Prompt-Customization-Techniques-for-Beginners.md",
         "post_title": "Exploring Shell Prompt Customization Techniques for Beginners",
         "post_file": "source/_posts/Exploring-Shell-Prompt-Customization-Techniques-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 788,
@@ -1421,7 +1421,7 @@
         "filename": "Getting-Started-with-PowerShell-A-Beginners-Guide-to-Scripting.md",
         "post_title": "Getting Started with PowerShell: A Beginner's Guide to Scripting",
         "post_file": "source/_posts/Getting-Started-with-PowerShell-A-Beginners-Guide-to-Scripting.md",
-        "created": false
+        "created": true
     },
     {
         "index": 789,
@@ -1429,7 +1429,7 @@
         "filename": "Understanding-PowerShell-Basics-Your-First-Commands-Explained.md",
         "post_title": "Understanding PowerShell Basics: Your First Commands Explained",
         "post_file": "source/_posts/Understanding-PowerShell-Basics-Your-First-Commands-Explained.md",
-        "created": false
+        "created": true
     },
     {
         "index": 790,
@@ -1437,7 +1437,7 @@
         "filename": "Creating-Your-First-PowerShell-Script-Step-by-Step-for-New-Users.md",
         "post_title": "Creating Your First PowerShell Script: Step by Step for New Users",
         "post_file": "source/_posts/Creating-Your-First-PowerShell-Script-Step-by-Step-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 791,
@@ -1445,7 +1445,7 @@
         "filename": "PowerShell-Best-Practices-Tips-Every-Beginner-Should-Follow.md",
         "post_title": "PowerShell Best Practices: Tips Every Beginner Should Follow",
         "post_file": "source/_posts/PowerShell-Best-Practices-Tips-Every-Beginner-Should-Follow.md",
-        "created": false
+        "created": true
     },
     {
         "index": 792,
@@ -1453,7 +1453,7 @@
         "filename": "How-to-Use-Cmdlets-in-PowerShell-A-Beginners-Overview.md",
         "post_title": "How to Use Cmdlets in PowerShell: A Beginner\u2019s Overview",
         "post_file": "source/_posts/How-to-Use-Cmdlets-in-PowerShell-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 793,
@@ -1461,7 +1461,7 @@
         "filename": "Working-with-Variables-in-PowerShell-A-Comprehensive-Guide-for-Beginners.md",
         "post_title": "Working with Variables in PowerShell: A Comprehensive Guide for Beginners",
         "post_file": "source/_posts/Working-with-Variables-in-PowerShell-A-Comprehensive-Guide-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 794,
@@ -1469,7 +1469,7 @@
         "filename": "Managing-Processes-with-PowerShell-Essential-Commands-for-Newbies.md",
         "post_title": "Managing Processes with PowerShell: Essential Commands for Newbies",
         "post_file": "source/_posts/Managing-Processes-with-PowerShell-Essential-Commands-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 795,
@@ -1477,7 +1477,7 @@
         "filename": "File-Management-in-PowerShell-How-to-Work-with-Files-and-Folders.md",
         "post_title": "File Management in PowerShell: How to Work with Files and Folders",
         "post_file": "source/_posts/File-Management-in-PowerShell-How-to-Work-with-Files-and-Folders.md",
-        "created": false
+        "created": true
     },
     {
         "index": 796,
@@ -1485,7 +1485,7 @@
         "filename": "Understanding-PowerShell-Pipelines-Combining-Cmdlets-Efficiently.md",
         "post_title": "Understanding PowerShell Pipelines: Combining Cmdlets Efficiently",
         "post_file": "source/_posts/Understanding-PowerShell-Pipelines-Combining-Cmdlets-Efficiently.md",
-        "created": false
+        "created": true
     },
     {
         "index": 797,
@@ -1493,7 +1493,7 @@
         "filename": "Creating-Functions-in-PowerShell-A-Beginners-Guide-to-Reusability.md",
         "post_title": "Creating Functions in PowerShell: A Beginner's Guide to Reusability",
         "post_file": "source/_posts/Creating-Functions-in-PowerShell-A-Beginners-Guide-to-Reusability.md",
-        "created": false
+        "created": true
     },
     {
         "index": 798,
@@ -1501,7 +1501,7 @@
         "filename": "How-to-Automate-Tasks-with-PowerShell-A-Step-by-Step-Tutorial.md",
         "post_title": "How to Automate Tasks with PowerShell: A Step-by-Step Tutorial",
         "post_file": "source/_posts/How-to-Automate-Tasks-with-PowerShell-A-Step-by-Step-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 799,
@@ -1509,7 +1509,7 @@
         "filename": "Working-with-PowerShell-Modules-Expanding-Your-Functionality.md",
         "post_title": "Working with PowerShell Modules: Expanding Your Functionality",
         "post_file": "source/_posts/Working-with-PowerShell-Modules-Expanding-Your-Functionality.md",
-        "created": false
+        "created": true
     },
     {
         "index": 800,
@@ -1517,7 +1517,7 @@
         "filename": "Debugging-PowerShell-Scripts-Common-Errors-and-Solutions-for-Beginners.md",
         "post_title": "Debugging PowerShell Scripts: Common Errors and Solutions for Beginners",
         "post_file": "source/_posts/Debugging-PowerShell-Scripts-Common-Errors-and-Solutions-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 801,
@@ -1525,7 +1525,7 @@
         "filename": "Getting-System-Information-with-PowerShell-A-Beginners-Approach.md",
         "post_title": "Getting System Information with PowerShell: A Beginner's Approach",
         "post_file": "source/_posts/Getting-System-Information-with-PowerShell-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 802,
@@ -1533,7 +1533,7 @@
         "filename": "Using-PowerShell-for-Active-Directory-Management-Essentials-for-Beginners.md",
         "post_title": "Using PowerShell for Active Directory Management: Essentials for Beginners",
         "post_file": "source/_posts/Using-PowerShell-for-Active-Directory-Management-Essentials-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 803,
@@ -1541,7 +1541,7 @@
         "filename": "How-to-Schedule-Tasks-with-PowerShell-A-Beginners-Guide-to-Task-Scheduler.md",
         "post_title": "How to Schedule Tasks with PowerShell: A Beginner's Guide to Task Scheduler",
         "post_file": "source/_posts/How-to-Schedule-Tasks-with-PowerShell-A-Beginners-Guide-to-Task-Scheduler.md",
-        "created": false
+        "created": true
     },
     {
         "index": 804,
@@ -1549,7 +1549,7 @@
         "filename": "Understanding-PowerShell-Profiles-Customizing-Your-Environment.md",
         "post_title": "Understanding PowerShell Profiles: Customizing Your Environment",
         "post_file": "source/_posts/Understanding-PowerShell-Profiles-Customizing-Your-Environment.md",
-        "created": false
+        "created": true
     },
     {
         "index": 805,
@@ -1557,7 +1557,7 @@
         "filename": "Creating-GUI-Applications-with-PowerShell-A-Beginners-Tutorial.md",
         "post_title": "Creating GUI Applications with PowerShell: A Beginner\u2019s Tutorial",
         "post_file": "source/_posts/Creating-GUI-Applications-with-PowerShell-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 806,
@@ -1565,7 +1565,7 @@
         "filename": "Working-with-JSON-and-XML-in-PowerShell-Data-Manipulation-for-Beginners.md",
         "post_title": "Working with JSON and XML in PowerShell: Data Manipulation for Beginners",
         "post_file": "source/_posts/Working-with-JSON-and-XML-in-PowerShell-Data-Manipulation-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 807,
@@ -1573,7 +1573,7 @@
         "filename": "Common-PowerShell-Commands-Every-Beginner-Should-Know.md",
         "post_title": "Common PowerShell Commands Every Beginner Should Know",
         "post_file": "source/_posts/Common-PowerShell-Commands-Every-Beginner-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 808,
@@ -1581,7 +1581,7 @@
         "filename": "Using-PowerShell-to-Interact-with-REST-APIs-A-Beginners-Guide.md",
         "post_title": "Using PowerShell to Interact with REST APIs: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Using-PowerShell-to-Interact-with-REST-APIs-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 809,
@@ -1589,7 +1589,7 @@
         "filename": "How-to-Create-and-Use-PowerShell-Aliases-Streamline-Your-Workflow.md",
         "post_title": "How to Create and Use PowerShell Aliases: Streamline Your Workflow",
         "post_file": "source/_posts/How-to-Create-and-Use-PowerShell-Aliases-Streamline-Your-Workflow.md",
-        "created": false
+        "created": true
     },
     {
         "index": 810,
@@ -1597,7 +1597,7 @@
         "filename": "Best-Tools-and-IDEs-for-PowerShell-Development-A-Beginners-Overview.md",
         "post_title": "Best Tools and IDEs for PowerShell Development: A Beginner\u2019s Overview",
         "post_file": "source/_posts/Best-Tools-and-IDEs-for-PowerShell-Development-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 811,
@@ -1605,7 +1605,7 @@
         "filename": "Getting-Help-in-PowerShell-Using-Get-Help-Like-a-Pro.md",
         "post_title": "Getting Help in PowerShell: Using Get-Help Like a Pro",
         "post_file": "source/_posts/Getting-Help-in-PowerShell-Using-Get-Help-Like-a-Pro.md",
-        "created": false
+        "created": true
     },
     {
         "index": 812,
@@ -1613,7 +1613,7 @@
         "filename": "Creating-PowerShell-Workflows-A-Beginners-Guide-to-Automation.md",
         "post_title": "Creating PowerShell Workflows: A Beginner's Guide to Automation",
         "post_file": "source/_posts/Creating-PowerShell-Workflows-A-Beginners-Guide-to-Automation.md",
-        "created": false
+        "created": true
     },
     {
         "index": 813,
@@ -1621,7 +1621,7 @@
         "filename": "How-to-Write-Effective-Comments-in-PowerShell-Scripts.md",
         "post_title": "How to Write Effective Comments in PowerShell Scripts",
         "post_file": "source/_posts/How-to-Write-Effective-Comments-in-PowerShell-Scripts.md",
-        "created": false
+        "created": true
     },
     {
         "index": 814,
@@ -1629,7 +1629,7 @@
         "filename": "Using-PowerShell-for-Network-Management-An-Introductory-Guide.md",
         "post_title": "Using PowerShell for Network Management: An Introductory Guide",
         "post_file": "source/_posts/Using-PowerShell-for-Network-Management-An-Introductory-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 815,
@@ -1637,7 +1637,7 @@
         "filename": "Introduction-to-Windows-PowerShell-ISE-Your-First-Development-Environment.md",
         "post_title": "Introduction to Windows PowerShell ISE: Your First Development Environment",
         "post_file": "source/_posts/Introduction-to-Windows-PowerShell-ISE-Your-First-Development-Environment.md",
-        "created": false
+        "created": true
     },
     {
         "index": 816,
@@ -1645,7 +1645,7 @@
         "filename": "Mastering-Conditional-Statements-in-PowerShell-A-Beginners-Guide.md",
         "post_title": "Mastering Conditional Statements in PowerShell: A Beginner's Guide",
         "post_file": "source/_posts/Mastering-Conditional-Statements-in-PowerShell-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 817,
@@ -1653,7 +1653,7 @@
         "filename": "Exploring-PowerShell-Remoting-Managing-Systems-from-a-Distance.md",
         "post_title": "Exploring PowerShell Remoting: Managing Systems from a Distance",
         "post_file": "source/_posts/Exploring-PowerShell-Remoting-Managing-Systems-from-a-Distance.md",
-        "created": false
+        "created": true
     },
     {
         "index": 818,
@@ -1661,7 +1661,7 @@
         "filename": "A-Beginners-Guide-to-PowerShell-Arrays-and-Hash-Tables.md",
         "post_title": "A Beginner\u2019s Guide to PowerShell Arrays and Hash Tables",
         "post_file": "source/_posts/A-Beginners-Guide-to-PowerShell-Arrays-and-Hash-Tables.md",
-        "created": false
+        "created": true
     },
     {
         "index": 819,
@@ -1669,7 +1669,7 @@
         "filename": "Understanding-Security-in-PowerShell-Best-Practices-for-New-Users.md",
         "post_title": "Understanding Security in PowerShell: Best Practices for New Users",
         "post_file": "source/_posts/Understanding-Security-in-PowerShell-Best-Practices-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 820,
@@ -1677,7 +1677,7 @@
         "filename": "Leveraging-PowerShell-for-Reporting-and-Data-Analysis-A-Beginners-Insight.md",
         "post_title": "Leveraging PowerShell for Reporting and Data Analysis: A Beginner's Insight",
         "post_file": "source/_posts/Leveraging-PowerShell-for-Reporting-and-Data-Analysis-A-Beginners-Insight.md",
-        "created": false
+        "created": true
     },
     {
         "index": 821,
@@ -1685,7 +1685,7 @@
         "filename": "Creating-Reports-with-PowerShell-Step-by-Step-Guide-for-Newbies.md",
         "post_title": "Creating Reports with PowerShell: Step-by-Step Guide for Newbies",
         "post_file": "source/_posts/Creating-Reports-with-PowerShell-Step-by-Step-Guide-for-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 822,
@@ -1693,7 +1693,7 @@
         "filename": "Getting-Started-with-Windows-CMD-Shell-The-Ultimate-Beginners-Guide.md",
         "post_title": "Getting Started with Windows CMD Shell: The Ultimate Beginner's Guide",
         "post_file": "source/_posts/Getting-Started-with-Windows-CMD-Shell-The-Ultimate-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 823,
@@ -1701,7 +1701,7 @@
         "filename": "Mastering-Windows-CMD-Shell-From-Zero-to-Command-Line-Hero.md",
         "post_title": "Mastering Windows CMD Shell: From Zero to Command Line Hero",
         "post_file": "source/_posts/Mastering-Windows-CMD-Shell-From-Zero-to-Command-Line-Hero.md",
-        "created": false
+        "created": true
     },
     {
         "index": 824,
@@ -1709,7 +1709,7 @@
         "filename": "Essential-CMD-Commands-Every-Beginner-Should-Learn.md",
         "post_title": "Essential CMD Commands Every Beginner Should Learn",
         "post_file": "source/_posts/Essential-CMD-Commands-Every-Beginner-Should-Learn.md",
-        "created": false
+        "created": true
     },
     {
         "index": 825,
@@ -1717,7 +1717,7 @@
         "filename": "Navigating-Your-System-with-Windows-CMD-Shell-A-Step-by-Step-Guide.md",
         "post_title": "Navigating Your System with Windows CMD Shell: A Step-by-Step Guide",
         "post_file": "source/_posts/Navigating-Your-System-with-Windows-CMD-Shell-A-Step-by-Step-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 826,
@@ -1725,7 +1725,7 @@
         "filename": "How-to-Create-and-Execute-Batch-Files-in-CMD-A-Beginners-Tutorial.md",
         "post_title": "How to Create and Execute Batch Files in CMD: A Beginner's Tutorial",
         "post_file": "source/_posts/How-to-Create-and-Execute-Batch-Files-in-CMD-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 827,
@@ -1733,7 +1733,7 @@
         "filename": "Top-10-CMD-Tips-and-Tricks-for-New-Users.md",
         "post_title": "Top 10 CMD Tips and Tricks for New Users",
         "post_file": "source/_posts/Top-10-CMD-Tips-and-Tricks-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 828,
@@ -1741,7 +1741,7 @@
         "filename": "Understanding-Windows-Command-Line-A-Beginners-Insight.md",
         "post_title": "Understanding Windows Command Line: A Beginner's Insight",
         "post_file": "source/_posts/Understanding-Windows-Command-Line-A-Beginners-Insight.md",
-        "created": false
+        "created": true
     },
     {
         "index": 829,
@@ -1749,7 +1749,7 @@
         "filename": "CMD-Shell-Basics-Your-First-Steps-into-Command-Line-Usage.md",
         "post_title": "CMD Shell Basics: Your First Steps into Command Line Usage",
         "post_file": "source/_posts/CMD-Shell-Basics-Your-First-Steps-into-Command-Line-Usage.md",
-        "created": false
+        "created": true
     },
     {
         "index": 830,
@@ -1757,7 +1757,7 @@
         "filename": "How-to-Automate-Tasks-with-Windows-CMD-Shell-A-Beginners-Approach.md",
         "post_title": "How to Automate Tasks with Windows CMD Shell: A Beginner's Approach",
         "post_file": "source/_posts/How-to-Automate-Tasks-with-Windows-CMD-Shell-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 831,
@@ -1765,7 +1765,7 @@
         "filename": "Using-Environment-Variables-in-CMD-A-Beginners-Guide.md",
         "post_title": "Using Environment Variables in CMD: A Beginner's Guide",
         "post_file": "source/_posts/Using-Environment-Variables-in-CMD-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 832,
@@ -1773,7 +1773,7 @@
         "filename": "Learning-CMD-Scripting-Your-Path-from-Zero-to-Automation.md",
         "post_title": "Learning CMD Scripting: Your Path from Zero to Automation",
         "post_file": "source/_posts/Learning-CMD-Scripting-Your-Path-from-Zero-to-Automation.md",
-        "created": false
+        "created": true
     },
     {
         "index": 833,
@@ -1781,7 +1781,7 @@
         "filename": "Common-CMD-Commands-for-System-Administration-A-Beginners-Guide.md",
         "post_title": "Common CMD Commands for System Administration: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Common-CMD-Commands-for-System-Administration-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 834,
@@ -1789,7 +1789,7 @@
         "filename": "Creating-Simple-Scripts-in-CMD-Step-by-Step-for-Beginners.md",
         "post_title": "Creating Simple Scripts in CMD: Step-by-Step for Beginners",
         "post_file": "source/_posts/Creating-Simple-Scripts-in-CMD-Step-by-Step-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 835,
@@ -1797,7 +1797,7 @@
         "filename": "Essential-CMD-Tools-for-Developers-A-Comprehensive-Overview.md",
         "post_title": "Essential CMD Tools for Developers: A Comprehensive Overview",
         "post_file": "source/_posts/Essential-CMD-Tools-for-Developers-A-Comprehensive-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 836,
@@ -1805,7 +1805,7 @@
         "filename": "How-to-Troubleshoot-Common-Windows-CMD-Issues.md",
         "post_title": "How to Troubleshoot Common Windows CMD Issues",
         "post_file": "source/_posts/How-to-Troubleshoot-Common-Windows-CMD-Issues.md",
-        "created": false
+        "created": true
     },
     {
         "index": 837,
@@ -1813,7 +1813,7 @@
         "filename": "Using-CMD-to-Manage-Files-A-Beginners-Tutorial.md",
         "post_title": "Using CMD to Manage Files: A Beginner's Tutorial",
         "post_file": "source/_posts/Using-CMD-to-Manage-Files-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 838,
@@ -1821,7 +1821,7 @@
         "filename": "CMD-Shortcuts-and-Hotkeys-Boost-Your-Productivity.md",
         "post_title": "CMD Shortcuts and Hotkeys: Boost Your Productivity",
         "post_file": "source/_posts/CMD-Shortcuts-and-Hotkeys-Boost-Your-Productivity.md",
-        "created": false
+        "created": true
     },
     {
         "index": 839,
@@ -1829,7 +1829,7 @@
         "filename": "Beginners-Guide-to-Networking-Commands-in-CMD.md",
         "post_title": "Beginner\u2019s Guide to Networking Commands in CMD",
         "post_file": "source/_posts/Beginners-Guide-to-Networking-Commands-in-CMD.md",
-        "created": false
+        "created": true
     },
     {
         "index": 840,
@@ -1837,7 +1837,7 @@
         "filename": "Using-Redirection-and-Pipes-in-CMD-A-Complete-Beginners-Guide.md",
         "post_title": "Using Redirection and Pipes in CMD: A Complete Beginner\u2019s Guide",
         "post_file": "source/_posts/Using-Redirection-and-Pipes-in-CMD-A-Complete-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 841,
@@ -1845,7 +1845,7 @@
         "filename": "How-to-Use-Help-Commands-in-CMD-Enhancing-Your-Skills.md",
         "post_title": "How to Use Help Commands in CMD: Enhancing Your Skills",
         "post_file": "source/_posts/How-to-Use-Help-Commands-in-CMD-Enhancing-Your-Skills.md",
-        "created": false
+        "created": true
     },
     {
         "index": 842,
@@ -1853,7 +1853,7 @@
         "filename": "Understanding-CMD-Error-Messages-A-Guide-for-New-Users.md",
         "post_title": "Understanding CMD Error Messages: A Guide for New Users",
         "post_file": "source/_posts/Understanding-CMD-Error-Messages-A-Guide-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 843,
@@ -1861,7 +1861,7 @@
         "filename": "Batch-Scripting-101-Start-Automating-with-CMD-Shell.md",
         "post_title": "Batch Scripting 101: Start Automating with CMD Shell",
         "post_file": "source/_posts/Batch-Scripting-101-Start-Automating-with-CMD-Shell.md",
-        "created": false
+        "created": true
     },
     {
         "index": 844,
@@ -1869,7 +1869,7 @@
         "filename": "Customizing-Your-CMD-Shell-Environment-A-Beginners-Guide.md",
         "post_title": "Customizing Your CMD Shell Environment: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Customizing-Your-CMD-Shell-Environment-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 845,
@@ -1877,7 +1877,7 @@
         "filename": "How-to-Schedule-Tasks-Using-CMD-Beginners-Techniques.md",
         "post_title": "How to Schedule Tasks Using CMD: Beginner's Techniques",
         "post_file": "source/_posts/How-to-Schedule-Tasks-Using-CMD-Beginners-Techniques.md",
-        "created": false
+        "created": true
     },
     {
         "index": 846,
@@ -1885,7 +1885,7 @@
         "filename": "Intro-to-Windows-CMD-Shell-Commands-You-Must-Know.md",
         "post_title": "Intro to Windows CMD Shell: Commands You Must Know",
         "post_file": "source/_posts/Intro-to-Windows-CMD-Shell-Commands-You-Must-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 847,
@@ -1893,7 +1893,7 @@
         "filename": "Creating-User-Input-Scripts-in-CMD-A-Beginners-Guide.md",
         "post_title": "Creating User Input Scripts in CMD: A Beginner's Guide",
         "post_file": "source/_posts/Creating-User-Input-Scripts-in-CMD-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 848,
@@ -1901,7 +1901,7 @@
         "filename": "How-to-Manage-System-Processes-Using-CMD.md",
         "post_title": "How to Manage System Processes Using CMD",
         "post_file": "source/_posts/How-to-Manage-System-Processes-Using-CMD.md",
-        "created": false
+        "created": true
     },
     {
         "index": 849,
@@ -1909,7 +1909,7 @@
         "filename": "Understanding-CMD-File-Structures-A-Beginners-Overview.md",
         "post_title": "Understanding CMD File Structures: A Beginner's Overview",
         "post_file": "source/_posts/Understanding-CMD-File-Structures-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 850,
@@ -1917,7 +1917,7 @@
         "filename": "How-to-Enable-Windows-CMD-Shell-Features-A-Beginners-Guide.md",
         "post_title": "How to Enable Windows CMD Shell Features: A Beginner's Guide",
         "post_file": "source/_posts/How-to-Enable-Windows-CMD-Shell-Features-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 851,
@@ -1925,7 +1925,7 @@
         "filename": "Advanced-CMD-Techniques-Taking-Your-Skills-to-the-Next-Level.md",
         "post_title": "Advanced CMD Techniques: Taking Your Skills to the Next Level",
         "post_file": "source/_posts/Advanced-CMD-Techniques-Taking-Your-Skills-to-the-Next-Level.md",
-        "created": false
+        "created": true
     },
     {
         "index": 852,
@@ -1933,7 +1933,7 @@
         "filename": "How-to-Create-a-Simple-Command-Line-Interface-in-CMD.md",
         "post_title": "How to Create a Simple Command-Line Interface in CMD",
         "post_file": "source/_posts/How-to-Create-a-Simple-Command-Line-Interface-in-CMD.md",
-        "created": false
+        "created": true
     },
     {
         "index": 853,
@@ -1941,7 +1941,7 @@
         "filename": "Using-CMD-for-System-Information-What-Beginners-Need-to-Know.md",
         "post_title": "Using CMD for System Information: What Beginners Need to Know",
         "post_file": "source/_posts/Using-CMD-for-System-Information-What-Beginners-Need-to-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 854,
@@ -1949,7 +1949,7 @@
         "filename": "Exploring-CMDs-Built-In-Tools-A-Beginners-Journey.md",
         "post_title": "Exploring CMD's Built-In Tools: A Beginner\u2019s Journey",
         "post_file": "source/_posts/Exploring-CMDs-Built-In-Tools-A-Beginners-Journey.md",
-        "created": false
+        "created": true
     },
     {
         "index": 855,
@@ -1957,7 +1957,7 @@
         "filename": "How-to-Use-CMD-in-Your-Daily-Workflow-Pro-Tips-for-Beginners.md",
         "post_title": "How to Use CMD in Your Daily Workflow: Pro Tips for Beginners",
         "post_file": "source/_posts/How-to-Use-CMD-in-Your-Daily-Workflow-Pro-Tips-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 856,
@@ -1965,7 +1965,7 @@
         "filename": "Handling-Errors-in-CMD-Scripts-A-Step-by-Step-Guide.md",
         "post_title": "Handling Errors in CMD Scripts: A Step-by-Step Guide",
         "post_file": "source/_posts/Handling-Errors-in-CMD-Scripts-A-Step-by-Step-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 857,
@@ -1973,7 +1973,7 @@
         "filename": "CMD-vs-PowerShell-What-Beginners-Should-Know.md",
         "post_title": "CMD vs PowerShell: What Beginners Should Know",
         "post_file": "source/_posts/CMD-vs-PowerShell-What-Beginners-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 858,
@@ -1981,7 +1981,7 @@
         "filename": "Getting-Started-with-Verilog-A-Comprehensive-Beginners-Guide.md",
         "post_title": "Getting Started with Verilog: A Comprehensive Beginner's Guide",
         "post_file": "source/_posts/Getting-Started-with-Verilog-A-Comprehensive-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 859,
@@ -1989,7 +1989,7 @@
         "filename": "Understanding-the-Basics-of-Verilog-A-Beginners-Insight.md",
         "post_title": "Understanding the Basics of Verilog: A Beginner's Insight",
         "post_file": "source/_posts/Understanding-the-Basics-of-Verilog-A-Beginners-Insight.md",
-        "created": false
+        "created": true
     },
     {
         "index": 860,
@@ -1997,7 +1997,7 @@
         "filename": "Your-First-Verilog-Program-Step-by-Step-for-Complete-Newbies.md",
         "post_title": "Your First Verilog Program: Step-by-Step for Complete Newbies",
         "post_file": "source/_posts/Your-First-Verilog-Program-Step-by-Step-for-Complete-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 861,
@@ -2005,7 +2005,7 @@
         "filename": "Mastering-Verilog-From-Zero-Experience-to-Proficiency.md",
         "post_title": "Mastering Verilog: From Zero Experience to Proficiency",
         "post_file": "source/_posts/Mastering-Verilog-From-Zero-Experience-to-Proficiency.md",
-        "created": false
+        "created": true
     },
     {
         "index": 862,
@@ -2013,7 +2013,7 @@
         "filename": "Verilog-Syntax-Essential-Commands-Every-Beginner-Should-Know.md",
         "post_title": "Verilog Syntax: Essential Commands Every Beginner Should Know",
         "post_file": "source/_posts/Verilog-Syntax-Essential-Commands-Every-Beginner-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 863,
@@ -2021,7 +2021,7 @@
         "filename": "Building-Your-First-Digital-Circuit-with-Verilog-A-Beginners-Tutorial.md",
         "post_title": "Building Your First Digital Circuit with Verilog: A Beginner's Tutorial",
         "post_file": "source/_posts/Building-Your-First-Digital-Circuit-with-Verilog-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 864,
@@ -2029,7 +2029,7 @@
         "filename": "Understanding-Data-Types-in-Verilog-The-Beginners-Overview.md",
         "post_title": "Understanding Data Types in Verilog: The Beginner's Overview",
         "post_file": "source/_posts/Understanding-Data-Types-in-Verilog-The-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 865,
@@ -2037,7 +2037,7 @@
         "filename": "Exploring-Structural-and-Behavioral-Modeling-in-Verilog.md",
         "post_title": "Exploring Structural and Behavioral Modeling in Verilog",
         "post_file": "source/_posts/Exploring-Structural-and-Behavioral-Modeling-in-Verilog.md",
-        "created": false
+        "created": true
     },
     {
         "index": 866,
@@ -2045,7 +2045,7 @@
         "filename": "How-to-Simulate-Your-First-Verilog-Design-A-Beginners-Guide.md",
         "post_title": "How to Simulate Your First Verilog Design: A Beginner\u2019s Guide",
         "post_file": "source/_posts/How-to-Simulate-Your-First-Verilog-Design-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 867,
@@ -2053,7 +2053,7 @@
         "filename": "Top-10-Common-Mistakes-in-Verilog-Coding-by-Beginners.md",
         "post_title": "Top 10 Common Mistakes in Verilog Coding by Beginners",
         "post_file": "source/_posts/Top-10-Common-Mistakes-in-Verilog-Coding-by-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 868,
@@ -2061,7 +2061,7 @@
         "filename": "Creating-Testbenches-in-Verilog-A-Beginners-Guide.md",
         "post_title": "Creating Testbenches in Verilog: A Beginner's Guide",
         "post_file": "source/_posts/Creating-Testbenches-in-Verilog-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 869,
@@ -2069,7 +2069,7 @@
         "filename": "How-to-Use-the-Verilog-Compiler-A-Complete-Beginners-Approach.md",
         "post_title": "How to Use the Verilog Compiler: A Complete Beginner\u2019s Approach",
         "post_file": "source/_posts/How-to-Use-the-Verilog-Compiler-A-Complete-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 870,
@@ -2077,7 +2077,7 @@
         "filename": "Verilog-Modules-A-Beginners-Guide-to-Designs.md",
         "post_title": "Verilog Modules: A Beginner's Guide to Designs",
         "post_file": "source/_posts/Verilog-Modules-A-Beginners-Guide-to-Designs.md",
-        "created": false
+        "created": true
     },
     {
         "index": 871,
@@ -2085,7 +2085,7 @@
         "filename": "Introduction-to-FPGA-Programming-with-Verilog-A-Beginners-Journey.md",
         "post_title": "Introduction to FPGA Programming with Verilog: A Beginner's Journey",
         "post_file": "source/_posts/Introduction-to-FPGA-Programming-with-Verilog-A-Beginners-Journey.md",
-        "created": false
+        "created": true
     },
     {
         "index": 872,
@@ -2093,7 +2093,7 @@
         "filename": "Using-Verilog-for-RTL-Design-A-Step-by-Step-Tutorial.md",
         "post_title": "Using Verilog for RTL Design: A Step-by-Step Tutorial",
         "post_file": "source/_posts/Using-Verilog-for-RTL-Design-A-Step-by-Step-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 873,
@@ -2101,7 +2101,7 @@
         "filename": "Understanding-Finite-State-Machines-in-Verilog-A-Beginners-Insight.md",
         "post_title": "Understanding Finite State Machines in Verilog: A Beginner's Insight",
         "post_file": "source/_posts/Understanding-Finite-State-Machines-in-Verilog-A-Beginners-Insight.md",
-        "created": false
+        "created": true
     },
     {
         "index": 874,
@@ -2109,7 +2109,7 @@
         "filename": "Debugging-Verilog-Code-Tips-for-Beginners.md",
         "post_title": "Debugging Verilog Code: Tips for Beginners",
         "post_file": "source/_posts/Debugging-Verilog-Code-Tips-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 875,
@@ -2117,7 +2117,7 @@
         "filename": "How-to-Write-Synthesis-Friendly-Verilog-Code-A-Beginners-Guide.md",
         "post_title": "How to Write Synthesis-Friendly Verilog Code: A Beginner's Guide",
         "post_file": "source/_posts/How-to-Write-Synthesis-Friendly-Verilog-Code-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 876,
@@ -2125,7 +2125,7 @@
         "filename": "Getting-Familiar-with-Verilog-Projects-A-Step-by-Step-Approach.md",
         "post_title": "Getting Familiar with Verilog Projects: A Step-by-Step Approach",
         "post_file": "source/_posts/Getting-Familiar-with-Verilog-Projects-A-Step-by-Step-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 877,
@@ -2133,7 +2133,7 @@
         "filename": "Verilog-Built-in-Functions-A-Beginners-Overview.md",
         "post_title": "Verilog Built-in Functions: A Beginner's Overview",
         "post_file": "source/_posts/Verilog-Built-in-Functions-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 878,
@@ -2141,7 +2141,7 @@
         "filename": "Using-Verilog-with-Simulation-Software-A-Practical-Guide.md",
         "post_title": "Using Verilog with Simulation Software: A Practical Guide",
         "post_file": "source/_posts/Using-Verilog-with-Simulation-Software-A-Practical-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 879,
@@ -2149,7 +2149,7 @@
         "filename": "Understanding-Timing-Analysis-in-Verilog-A-Beginners-Perspective.md",
         "post_title": "Understanding Timing Analysis in Verilog: A Beginner's Perspective",
         "post_file": "source/_posts/Understanding-Timing-Analysis-in-Verilog-A-Beginners-Perspective.md",
-        "created": false
+        "created": true
     },
     {
         "index": 880,
@@ -2157,7 +2157,7 @@
         "filename": "Integrating-Verilog-Code-into-Larger-Systems-A-Beginners-Guide.md",
         "post_title": "Integrating Verilog Code into Larger Systems: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Integrating-Verilog-Code-into-Larger-Systems-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 881,
@@ -2165,7 +2165,7 @@
         "filename": "Exploring-Concurrent-and-Sequential-Statements-in-Verilog.md",
         "post_title": "Exploring Concurrent and Sequential Statements in Verilog",
         "post_file": "source/_posts/Exploring-Concurrent-and-Sequential-Statements-in-Verilog.md",
-        "created": false
+        "created": true
     },
     {
         "index": 882,
@@ -2173,7 +2173,7 @@
         "filename": "From-Idea-to-Implementation-Building-Projects-with-Verilog.md",
         "post_title": "From Idea to Implementation: Building Projects with Verilog",
         "post_file": "source/_posts/From-Idea-to-Implementation-Building-Projects-with-Verilog.md",
-        "created": false
+        "created": true
     },
     {
         "index": 883,
@@ -2181,7 +2181,7 @@
         "filename": "How-to-Optimize-Your-Verilog-Code-for-Performance-A-Beginners-Guide.md",
         "post_title": "How to Optimize Your Verilog Code for Performance: A Beginner\u2019s Guide",
         "post_file": "source/_posts/How-to-Optimize-Your-Verilog-Code-for-Performance-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 884,
@@ -2189,7 +2189,7 @@
         "filename": "Understanding-Events-and-Timing-Control-in-Verilog-For-Beginners.md",
         "post_title": "Understanding Events and Timing Control in Verilog: For Beginners",
         "post_file": "source/_posts/Understanding-Events-and-Timing-Control-in-Verilog-For-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 885,
@@ -2197,7 +2197,7 @@
         "filename": "Verilog-HDL-vs-VHDL-A-Beginners-Comparison.md",
         "post_title": "Verilog HDL vs VHDL: A Beginner\u2019s Comparison",
         "post_file": "source/_posts/Verilog-HDL-vs-VHDL-A-Beginners-Comparison.md",
-        "created": false
+        "created": true
     },
     {
         "index": 886,
@@ -2205,7 +2205,7 @@
         "filename": "Creating-State-Diagrams-for-Verilog-Designs-A-Beginners-Tutorial.md",
         "post_title": "Creating State Diagrams for Verilog Designs: A Beginner's Tutorial",
         "post_file": "source/_posts/Creating-State-Diagrams-for-Verilog-Designs-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 887,
@@ -2213,7 +2213,7 @@
         "filename": "How-to-Use-Libraries-and-Packages-in-Verilog.md",
         "post_title": "How to Use Libraries and Packages in Verilog",
         "post_file": "source/_posts/How-to-Use-Libraries-and-Packages-in-Verilog.md",
-        "created": false
+        "created": true
     },
     {
         "index": 888,
@@ -2221,7 +2221,7 @@
         "filename": "Verilog-Simulation-Tools-A-Beginners-Overview.md",
         "post_title": "Verilog Simulation Tools: A Beginner's Overview",
         "post_file": "source/_posts/Verilog-Simulation-Tools-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 889,
@@ -2229,7 +2229,7 @@
         "filename": "Getting-Started-with-Teachers-Guides-and-Resources-for-Verilog-Learning.md",
         "post_title": "Getting Started with Teacher's Guides and Resources for Verilog Learning",
         "post_file": "source/_posts/Getting-Started-with-Teachers-Guides-and-Resources-for-Verilog-Learning.md",
-        "created": false
+        "created": true
     },
     {
         "index": 890,
@@ -2237,7 +2237,7 @@
         "filename": "A-Beginners-Guide-to-Learning-Advanced-Verilog-Features.md",
         "post_title": "A Beginner\u2019s Guide to Learning Advanced Verilog Features",
         "post_file": "source/_posts/A-Beginners-Guide-to-Learning-Advanced-Verilog-Features.md",
-        "created": false
+        "created": true
     },
     {
         "index": 891,
@@ -2245,7 +2245,7 @@
         "filename": "Understanding-HDL-Concepts-with-Verilog-For-New-Users.md",
         "post_title": "Understanding HDL Concepts with Verilog: For New Users",
         "post_file": "source/_posts/Understanding-HDL-Concepts-with-Verilog-For-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 892,
@@ -2253,7 +2253,7 @@
         "filename": "A-Beginners-Guide-to-VBScript-Getting-Started-from-Scratch.md",
         "post_title": "A Beginner's Guide to VBScript: Getting Started from Scratch",
         "post_file": "source/_posts/A-Beginners-Guide-to-VBScript-Getting-Started-from-Scratch.md",
-        "created": false
+        "created": true
     },
     {
         "index": 893,
@@ -2261,7 +2261,7 @@
         "filename": "Understanding-the-Basics-of-VBScript-Your-First-Steps.md",
         "post_title": "Understanding the Basics of VBScript: Your First Steps",
         "post_file": "source/_posts/Understanding-the-Basics-of-VBScript-Your-First-Steps.md",
-        "created": false
+        "created": true
     },
     {
         "index": 894,
@@ -2269,7 +2269,7 @@
         "filename": "Creating-Your-First-VBScript-Program-A-Detailed-Tutorial-for-Beginners.md",
         "post_title": "Creating Your First VBScript Program: A Detailed Tutorial for Beginners",
         "post_file": "source/_posts/Creating-Your-First-VBScript-Program-A-Detailed-Tutorial-for-Beginners.md",
-        "created": false
+        "created": true
     },
     {
         "index": 895,
@@ -2277,7 +2277,7 @@
         "filename": "VBScript-Syntax-Essential-Basics-Every-New-User-Should-Know.md",
         "post_title": "VBScript Syntax: Essential Basics Every New User Should Know",
         "post_file": "source/_posts/VBScript-Syntax-Essential-Basics-Every-New-User-Should-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 896,
@@ -2285,7 +2285,7 @@
         "filename": "How-to-Automate-Tasks-Using-VBScript-A-Practical-Beginners-Guide.md",
         "post_title": "How to Automate Tasks Using VBScript: A Practical Beginner's Guide",
         "post_file": "source/_posts/How-to-Automate-Tasks-Using-VBScript-A-Practical-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 897,
@@ -2293,7 +2293,7 @@
         "filename": "Top-10-VBScript-Functions-A-Beginners-Toolkit.md",
         "post_title": "Top 10 VBScript Functions: A Beginner's Toolkit",
         "post_file": "source/_posts/Top-10-VBScript-Functions-A-Beginners-Toolkit.md",
-        "created": false
+        "created": true
     },
     {
         "index": 898,
@@ -2301,7 +2301,7 @@
         "filename": "How-to-Handle-Errors-in-VBScript-Tips-for-New-Developers.md",
         "post_title": "How to Handle Errors in VBScript: Tips for New Developers",
         "post_file": "source/_posts/How-to-Handle-Errors-in-VBScript-Tips-for-New-Developers.md",
-        "created": false
+        "created": true
     },
     {
         "index": 899,
@@ -2309,7 +2309,7 @@
         "filename": "Working-with-Variables-in-VBScript-A-Beginners-Guide.md",
         "post_title": "Working with Variables in VBScript: A Beginner\u2019s Guide",
         "post_file": "source/_posts/Working-with-Variables-in-VBScript-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 900,
@@ -2317,7 +2317,7 @@
         "filename": "Control-Structures-in-VBScript-A-Beginners-Insight.md",
         "post_title": "Control Structures in VBScript: A Beginner's Insight",
         "post_file": "source/_posts/Control-Structures-in-VBScript-A-Beginners-Insight.md",
-        "created": false
+        "created": true
     },
     {
         "index": 901,
@@ -2325,7 +2325,7 @@
         "filename": "Understanding-Objects-and-Collections-in-VBScript-A-Complete-Overview.md",
         "post_title": "Understanding Objects and Collections in VBScript: A Complete Overview",
         "post_file": "source/_posts/Understanding-Objects-and-Collections-in-VBScript-A-Complete-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 902,
@@ -2333,7 +2333,7 @@
         "filename": "VBScript-vs-JavaScript-What-Beginners-Need-to-Know.md",
         "post_title": "VBScript vs JavaScript: What Beginners Need to Know",
         "post_file": "source/_posts/VBScript-vs-JavaScript-What-Beginners-Need-to-Know.md",
-        "created": false
+        "created": true
     },
     {
         "index": 903,
@@ -2341,7 +2341,7 @@
         "filename": "Creating-Interactive-Scripts-with-VBScript-A-Beginners-Approach.md",
         "post_title": "Creating Interactive Scripts with VBScript: A Beginner's Approach",
         "post_file": "source/_posts/Creating-Interactive-Scripts-with-VBScript-A-Beginners-Approach.md",
-        "created": false
+        "created": true
     },
     {
         "index": 904,
@@ -2349,7 +2349,7 @@
         "filename": "How-to-Use-VBScript-for-File-Handling-A-Beginners-Tutorial.md",
         "post_title": "How to Use VBScript for File Handling: A Beginner's Tutorial",
         "post_file": "source/_posts/How-to-Use-VBScript-for-File-Handling-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 905,
@@ -2357,7 +2357,7 @@
         "filename": "Understanding-Regular-Expressions-in-VBScript-A-Comprehensive-Guide.md",
         "post_title": "Understanding Regular Expressions in VBScript: A Comprehensive Guide",
         "post_file": "source/_posts/Understanding-Regular-Expressions-in-VBScript-A-Comprehensive-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 906,
@@ -2365,7 +2365,7 @@
         "filename": "How-to-Work-with-Dates-and-Times-in-VBScript-Beginners-Techniques.md",
         "post_title": "How to Work with Dates and Times in VBScript: Beginner's Techniques",
         "post_file": "source/_posts/How-to-Work-with-Dates-and-Times-in-VBScript-Beginners-Techniques.md",
-        "created": false
+        "created": true
     },
     {
         "index": 907,
@@ -2373,7 +2373,7 @@
         "filename": "Building-Simple-GUIs-with-VBScript-A-Step-by-Step-Guide.md",
         "post_title": "Building Simple GUIs with VBScript: A Step-by-Step Guide",
         "post_file": "source/_posts/Building-Simple-GUIs-with-VBScript-A-Step-by-Step-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 908,
@@ -2381,7 +2381,7 @@
         "filename": "Common-Mistakes-to-Avoid-When-Learning-VBScript-as-a-Beginner.md",
         "post_title": "Common Mistakes to Avoid When Learning VBScript as a Beginner",
         "post_file": "source/_posts/Common-Mistakes-to-Avoid-When-Learning-VBScript-as-a-Beginner.md",
-        "created": false
+        "created": true
     },
     {
         "index": 909,
@@ -2389,7 +2389,7 @@
         "filename": "How-to-Debug-Your-VBScript-Code-Essential-Techniques-for-New-Users.md",
         "post_title": "How to Debug Your VBScript Code: Essential Techniques for New Users",
         "post_file": "source/_posts/How-to-Debug-Your-VBScript-Code-Essential-Techniques-for-New-Users.md",
-        "created": false
+        "created": true
     },
     {
         "index": 910,
@@ -2397,7 +2397,7 @@
         "filename": "Using-VBScript-with-Windows-Script-Host-A-Beginners-Guide.md",
         "post_title": "Using VBScript with Windows Script Host: A Beginner's Guide",
         "post_file": "source/_posts/Using-VBScript-with-Windows-Script-Host-A-Beginners-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 911,
@@ -2405,7 +2405,7 @@
         "filename": "Interacting-with-the-Windows-Registry-using-VBScript-A-Beginners-Tutorial.md",
         "post_title": "Interacting with the Windows Registry using VBScript: A Beginner's Tutorial",
         "post_file": "source/_posts/Interacting-with-the-Windows-Registry-using-VBScript-A-Beginners-Tutorial.md",
-        "created": false
+        "created": true
     },
     {
         "index": 912,
@@ -2413,7 +2413,7 @@
         "filename": "Working-with-Arrays-in-VBScript-A-Beginners-Overview.md",
         "post_title": "Working with Arrays in VBScript: A Beginner's Overview",
         "post_file": "source/_posts/Working-with-Arrays-in-VBScript-A-Beginners-Overview.md",
-        "created": false
+        "created": true
     },
     {
         "index": 913,
@@ -2421,7 +2421,7 @@
         "filename": "How-to-Read-and-Write-Text-Files-with-VBScript-A-Complete-Guide.md",
         "post_title": "How to Read and Write Text Files with VBScript: A Complete Guide",
         "post_file": "source/_posts/How-to-Read-and-Write-Text-Files-with-VBScript-A-Complete-Guide.md",
-        "created": false
+        "created": true
     },
     {
         "index": 914,
@@ -2429,7 +2429,7 @@
         "filename": "Understanding-Functions-and-Subroutines-in-VBScript-For-Newbies.md",
         "post_title": "Understanding Functions and Subroutines in VBScript: For Newbies",
         "post_file": "source/_posts/Understanding-Functions-and-Subroutines-in-VBScript-For-Newbies.md",
-        "created": false
+        "created": true
     },
     {
         "index": 915,
@@ -2437,7 +2437,7 @@
         "filename": "Exploring-COM-Objects-in-VBScript-A-Beginners-Journey.md",
         "post_title": "Exploring COM Objects in VBScript: A Beginner's Journey",
         "post_file": "source/_posts/Exploring-COM-Objects-in-VBScript-A-Beginners-Journey.md",
-        "created": false
+        "created": true
     },
     {
         "index": 916,
@@ -2445,7 +2445,7 @@
         "filename": "Your-First-Steps-in-Web-Automation-with-VBScript.md",
         "post_title": "Your First Steps in Web Automation with VBScript",
         "post_file": "source/_posts/Your-First-Steps-in-Web-Automation-with-VBScript.md",
-        "created": false
+        "created": true
     },
     {
         "index": 917,
@@ -2453,7 +2453,7 @@
         "filename": "Understanding-VBScript-Context-and-Scope-A-Beginners-Insight.md",
         "post_title": "Understanding VBScript Context and Scope: A Beginner's Insight",
         "post_file": "source/_posts/Understanding-VBScript-Context-and-Scope-A-Beginners-Insight.md",
-        "created": false
+        "created": true
     },
     {
         "index": 918,
@@ -2461,7 +2461,7 @@
         "filename": "How-to-Integrate-VBScript-with-HTML-Your-Path-to-Dynamic-Pages.md",
         "post_title": "How to Integrate VBScript with HTML: Your Path to Dynamic Pages",
         "post_file": "source/_posts/How-to-Integrate-VBScript-with-HTML-Your-Path-to-Dynamic-Pages.md",
-        "created": false
+        "created": true
     },
     {
         "index": 919,
@@ -2469,6 +2469,6 @@
         "filename": "VBScript-Best-Practices-for-Beginners-Coding-Tips-and-Tricks.md",
         "post_title": "VBScript Best Practices for Beginners: Coding Tips and Tricks",
         "post_file": "source/_posts/VBScript-Best-Practices-for-Beginners-Coding-Tips-and-Tricks.md",
-        "created": false
+        "created": true
     }
 ]
