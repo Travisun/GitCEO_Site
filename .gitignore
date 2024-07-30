@@ -10,3 +10,5 @@ _multiconfig.yml
 .idea/*
 .venv
 .venv/
+.env
+tools/.env
