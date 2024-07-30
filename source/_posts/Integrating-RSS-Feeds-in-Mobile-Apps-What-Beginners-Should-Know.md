@@ -10,7 +10,7 @@ tags:
   - RSS
   - mobile apps
   - beginners guide
-  integration
+  - integration
 ---
 
 ### Introduction to RSS Feeds

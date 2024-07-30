@@ -8,9 +8,9 @@ categories:
   - web development
 tags:
   - Chart.js
-  web development
-  JavaScript
-  data visualization
+  - web development
+  - JavaScript
+  - data visualization
 ---
 
 ### Introduction to Chart.js

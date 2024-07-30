@@ -9,8 +9,8 @@ categories:
 tags:
   - C programming
   - beginner tutorial
-  software development
-  coding
+  - software development
+  - coding
 ---
 
 ## Introduction to C Programming

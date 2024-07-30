@@ -9,7 +9,7 @@ categories:
 tags:
   - JavaScript
   - beginner tutorial
-  programming basics
+  - programming basics
 ---
 
 ## Introduction to JavaScript

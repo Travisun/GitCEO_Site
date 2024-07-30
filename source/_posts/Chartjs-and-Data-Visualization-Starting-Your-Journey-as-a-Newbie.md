@@ -8,10 +8,10 @@ categories:
   - data visualization
 tags:
   - Chart.js
-  data visualization
-  programming
-  web development
-  tutorials
+  - data visualization
+  - programming
+  - web development
+  - tutorials
 ---
 
 ### Introduction to Chart.js and Data Visualization

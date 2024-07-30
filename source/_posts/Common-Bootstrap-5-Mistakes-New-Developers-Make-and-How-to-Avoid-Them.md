@@ -10,7 +10,7 @@ tags:
   - Bootstrap
   - front-end
   - CSS framework
-  responsive design
+  - responsive design
 ---
 
 ### Introduction to Bootstrap 5

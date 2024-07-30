@@ -8,10 +8,10 @@ categories:
   - web development
 tags:
   - Chart.js
-  data visualization
-  business analytics
-  JavaScript
-  web frameworks
+  - data visualization
+  - business analytics
+  - JavaScript
+  - web frameworks
 ---
 
 ### Introduction to Chart.js and Its Importance in Business Analytics

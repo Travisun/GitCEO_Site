@@ -8,9 +8,9 @@ categories:
   - web development
 tags:
   - Chart.js
-  data visualization
-  JavaScript
-  web development
+  - data visualization
+  - JavaScript
+  - web development
 ---
 
 ## Introduction: The Importance of Data Visualization
